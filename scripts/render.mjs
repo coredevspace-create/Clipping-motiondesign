@@ -8,6 +8,7 @@ const env = { ...process.env };
 // navigateur déjà présent dans l'environnement cloud Claude
 const shell = "/opt/pw-browsers/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell";
 if (!env.REMOTION_BROWSER && fs.existsSync(shell)) env.REMOTION_BROWSER = shell;
+execFileSync("node", ["scripts/index-episodes.mjs"], { stdio: "inherit" });
 fs.mkdirSync("videos", { recursive: true });
 execFileSync("npx", ["remotion", "render", `carreia-${id}`, `videos/carreia-${id}.mp4`, "--codec=h264", "--crf=18",
   "--audio-codec=aac", "--audio-bitrate=192k"], { stdio: "inherit", env });

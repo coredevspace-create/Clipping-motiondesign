@@ -152,7 +152,12 @@ const expected = [];
 { let acc = 0; for (let i = 0; i < sceneWeights.length - 1; i++) { acc += sceneWeights[i]; expected.push((acc / sw) * total); } }
 
 // programmation dynamique : choisir, dans l'ordre, un silence pour chaque coupure attendue
-const cand = silences.map((s) => ({ ...s, mid: (s.start + s.end) / 2, len: s.end - s.start }));
+const allCand = silences.map((s) => ({ ...s, mid: (s.start + s.end) / 2, len: s.end - s.start }));
+// La consigne demande une pause nette (~1 s) entre chaque paragraphe : si la voix en contient assez,
+// on ne coupe QUE sur ces longues pauses (bien plus fiable que l'estimation par syllabes).
+const longues = allCand.filter((c) => c.len >= 0.55);
+const cand = longues.length >= ep.scenes.length - 1 ? longues : allCand;
+if (cand === longues) console.log(`  découpage sur ${longues.length} pauses longues`);
 const N = expected.length, M = cand.length;
 let cuts;
 if (M >= N && N > 0) {
@@ -209,7 +214,7 @@ const scenes = ep.scenes.map((s, i) => {
     return acc;
   }, []);
   // silences à l'intérieur de la scène -> on aligne les virgules dessus
-  const inner = cand.filter((c) => c.mid > a + 0.15 && c.mid < b - 0.15).map((c) => c.mid - a);
+  const inner = allCand.filter((c) => c.mid > a + 0.15 && c.mid < b - 0.15).map((c) => c.mid - a);
   const ws = words.map((w) => weight(w) + pauseAfter(w) * 0.5);
   const tot = ws.reduce((x, y) => x + y, 0);
   let t = 0;
@@ -231,6 +236,12 @@ const scenes = ep.scenes.map((s, i) => {
   };
 });
 
-fs.writeFileSync(timingFile, JSON.stringify({ id, voice: ep.voix, scenes }, null, 2));
+// contrôle : un débit (syllabes/s) très différent des autres scènes = coupure probablement mal placée
+const syl = (t) => t.split(/\s+/).reduce((a, w) => a + weight(w), 0);
+const rates = scenes.map((s, i) => syl(ep.scenes[i].say) / s.duration);
+const med = [...rates].sort((a, b) => a - b)[Math.floor(rates.length / 2)];
+const alertes = rates.flatMap((r, i) => (Math.abs(r / med - 1) > 0.3 ? [`scène ${i + 1} (${ep.scenes[i].type}) : débit ${r.toFixed(1)} syl/s contre ${med.toFixed(1)} en moyenne → vérifier la coupure`] : []));
+for (const a of alertes) console.log("⚠ " + a);
+fs.writeFileSync(timingFile, JSON.stringify({ id, voice: ep.voix, alertes, scenes }, null, 2));
 for (const [i, s] of scenes.entries()) console.log(`scène ${String(i + 1).padStart(2, "0")} ${s.type.padEnd(16)} ${s.duration.toFixed(2)} s`);
 console.log(`OK → ${path.relative(ROOT, timingFile)}`);
