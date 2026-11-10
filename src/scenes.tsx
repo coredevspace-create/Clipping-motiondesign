@@ -300,7 +300,7 @@ export const Inclus: React.FC<SceneProps> = ({ words }) => {
     { t: "Le prompt ultra complet", w: "prompt" },
     { t: "Le guide complet", w: "guide" },
     { t: "Le script d'appel", w: "script" },
-    { t: "Communauté + support 24h/24", w: "premiers" },
+    { t: "Communauté + support", w: "premiers" },
   ];
   const tAll = atWord(words, "tout", at(words, words.length - 2));
   return (

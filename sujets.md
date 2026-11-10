@@ -44,3 +44,7 @@ Varier les structures d'un jour à l'autre : question, POV / « Imagine », list
 - [ ] 90 % des entreprises utilisent encore des logiciels dépassés
 - [ ] Comment trouver des clients pour tes logiciels 3D (script d'appel inclus)
 - [ ] Logiciel 3D vs site web : lequel vendre en 2026 ?
+- [ ] Ce qu'il y a dans le ZIP à 29 € (prompt + guide PDF + exemples)
+- [ ] 10 logiciels déjà prêts à montrer à tes prospects (pack 10 logiciels en option)
+- [ ] Le prompt qui transforme Claude Code en développeur de logiciels 3D
+- [ ] Tu as Claude ? Il ne te manque que ce prompt

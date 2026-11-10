@@ -23,7 +23,8 @@ npm ci
   entre chiffres et unité (`7 500 €`, `29 €`, `90 %`). Mêmes mots dans `say` et `sub` sinon.
 - Reprendre les mots déclencheurs de `SCENES.md` dans les phrases.
 - `description` : `👉 Commente « CRM » et je t'envoie le lien pour <bénéfice lié à l'accroche> 🚀 #business #ia #claude #entrepreneur #logiciel3d`
-- Rester sur les affirmations du site (BRAND.md). Pas de faux témoignage, pas de chiffre inventé, pas de compte à rebours daté.
+- Respecter les **règles de véracité** de BRAND.md : « jusqu'à 7 500 € », aucun gain garanti, on vend le prompt + le guide
+  (pas un service), pas de faux témoignage, pas de chiffre inventé, pas de compte à rebours daté.
 
 ## 2. Voix (une requête Gemini par vidéo)
 ```bash
