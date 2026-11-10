@@ -42,7 +42,9 @@ function tts(model) {
     `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`];
   if (process.env.GEMINI_API_KEY) args.push("-H", `x-goog-api-key: ${process.env.GEMINI_API_KEY}`);
   for (let attempt = 1; attempt <= 5; attempt++) {
-    const res = JSON.parse(execFileSync("curl", args, { input: body, maxBuffer: 1 << 28 }).toString());
+    const raw = execFileSync("curl", args, { input: body, maxBuffer: 1 << 28 }).toString();
+    let res;
+    try { res = JSON.parse(raw); } catch { res = { error: { code: 503, status: "réponse invalide", message: raw.slice(0, 120) } }; }
     if (!res.error) {
       const part = res.candidates?.[0]?.content?.parts?.find((p) => p.inlineData);
       if (!part) throw new Error("Pas d'audio dans la réponse : " + JSON.stringify(res).slice(0, 300));

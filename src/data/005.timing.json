@@ -1,0 +1,358 @@
+{
+  "id": "005",
+  "voice": "Puck",
+  "scenes": [
+    {
+      "type": "sitesWeb",
+      "file": "audio/005/01.wav",
+      "duration": 2.106,
+      "words": [
+        {
+          "text": "Arrête",
+          "start": 0,
+          "end": 0.428
+        },
+        {
+          "text": "de",
+          "start": 0.428,
+          "end": 0.599
+        },
+        {
+          "text": "vendre",
+          "start": 0.599,
+          "end": 0.856
+        },
+        {
+          "text": "des",
+          "start": 0.856,
+          "end": 1.027
+        },
+        {
+          "text": "sites",
+          "start": 1.027,
+          "end": 1.284
+        },
+        {
+          "text": "web",
+          "start": 1.284,
+          "end": 1.455
+        },
+        {
+          "text": "à",
+          "start": 1.455,
+          "end": 1.627
+        },
+        {
+          "text": "tes",
+          "start": 1.627,
+          "end": 1.798
+        },
+        {
+          "text": "clients.",
+          "start": 1.798,
+          "end": 2.106
+        }
+      ]
+    },
+    {
+      "type": "dejaSites",
+      "file": "audio/005/02.wav",
+      "duration": 2.092,
+      "words": [
+        {
+          "text": "Toutes",
+          "start": 0,
+          "end": 0.266
+        },
+        {
+          "text": "les",
+          "start": 0.266,
+          "end": 0.443
+        },
+        {
+          "text": "entreprises",
+          "start": 0.443,
+          "end": 1.064
+        },
+        {
+          "text": "en",
+          "start": 1.064,
+          "end": 1.241
+        },
+        {
+          "text": "ont",
+          "start": 1.241,
+          "end": 1.418
+        },
+        {
+          "text": "déjà",
+          "start": 1.418,
+          "end": 1.773
+        },
+        {
+          "text": "un.",
+          "start": 1.773,
+          "end": 2.092
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "file": "audio/005/03.wav",
+      "duration": 5.41,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 0,
+          "end": 0.22
+        },
+        {
+          "text": "qu'elles",
+          "start": 0.22,
+          "end": 0.77
+        },
+        {
+          "text": "n'ont",
+          "start": 0.77,
+          "end": 0.99
+        },
+        {
+          "text": "pas,",
+          "start": 0.99,
+          "end": 1.174
+        },
+        {
+          "text": "c'est",
+          "start": 1.174,
+          "end": 1.517
+        },
+        {
+          "text": "ça :",
+          "start": 1.517,
+          "end": 2.036
+        },
+        {
+          "text": "un",
+          "start": 2.036,
+          "end": 2.045
+        },
+        {
+          "text": "logiciel",
+          "start": 2.045,
+          "end": 2.705
+        },
+        {
+          "text": "en",
+          "start": 2.705,
+          "end": 2.925
+        },
+        {
+          "text": "3D,",
+          "start": 2.925,
+          "end": 3.365
+        },
+        {
+          "text": "fait",
+          "start": 3.365,
+          "end": 3.585
+        },
+        {
+          "text": "sur",
+          "start": 3.585,
+          "end": 3.805
+        },
+        {
+          "text": "mesure",
+          "start": 3.805,
+          "end": 4.354
+        },
+        {
+          "text": "pour",
+          "start": 4.354,
+          "end": 4.574
+        },
+        {
+          "text": "leur",
+          "start": 4.574,
+          "end": 4.794
+        },
+        {
+          "text": "métier.",
+          "start": 4.794,
+          "end": 5.41
+        }
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "file": "audio/005/04.wav",
+      "duration": 4.325,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 0,
+          "end": 0.185
+        },
+        {
+          "text": "le",
+          "start": 0.185,
+          "end": 0.37
+        },
+        {
+          "text": "crées",
+          "start": 0.37,
+          "end": 0.554
+        },
+        {
+          "text": "avec",
+          "start": 0.554,
+          "end": 0.924
+        },
+        {
+          "text": "Claude",
+          "start": 0.924,
+          "end": 1.201
+        },
+        {
+          "text": "en",
+          "start": 1.201,
+          "end": 1.386
+        },
+        {
+          "text": "20",
+          "start": 1.386,
+          "end": 1.978
+        },
+        {
+          "text": "minutes,",
+          "start": 1.978,
+          "end": 2.476
+        },
+        {
+          "text": "sans",
+          "start": 2.476,
+          "end": 2.699
+        },
+        {
+          "text": "écrire",
+          "start": 2.699,
+          "end": 3.161
+        },
+        {
+          "text": "une",
+          "start": 3.161,
+          "end": 3.438
+        },
+        {
+          "text": "ligne",
+          "start": 3.438,
+          "end": 3.715
+        },
+        {
+          "text": "de",
+          "start": 3.715,
+          "end": 3.9
+        },
+        {
+          "text": "code.",
+          "start": 3.9,
+          "end": 4.325
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/005/05.wav",
+      "duration": 2.921,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.17
+        },
+        {
+          "text": "tu",
+          "start": 0.17,
+          "end": 0.34
+        },
+        {
+          "text": "peux",
+          "start": 0.34,
+          "end": 0.509
+        },
+        {
+          "text": "le",
+          "start": 0.509,
+          "end": 0.679
+        },
+        {
+          "text": "vendre",
+          "start": 0.679,
+          "end": 0.934
+        },
+        {
+          "text": "jusqu'à",
+          "start": 0.934,
+          "end": 1.444
+        },
+        {
+          "text": "7 500 €.",
+          "start": 1.444,
+          "end": 2.921
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/005/06.wav",
+      "duration": 2.487,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.486
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.486,
+          "end": 0.68
+        },
+        {
+          "text": "et",
+          "start": 0.68,
+          "end": 0.875
+        },
+        {
+          "text": "je",
+          "start": 0.875,
+          "end": 1.069
+        },
+        {
+          "text": "t'envoie",
+          "start": 1.069,
+          "end": 1.36
+        },
+        {
+          "text": "le",
+          "start": 1.36,
+          "end": 1.555
+        },
+        {
+          "text": "lien",
+          "start": 1.555,
+          "end": 1.749
+        },
+        {
+          "text": "en",
+          "start": 1.749,
+          "end": 1.943
+        },
+        {
+          "text": "privé.",
+          "start": 1.943,
+          "end": 2.487
+        }
+      ]
+    }
+  ]
+}

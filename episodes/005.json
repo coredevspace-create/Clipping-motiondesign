@@ -1,0 +1,80 @@
+{
+  "id": "005",
+  "titre": "Arrête de vendre des sites web",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "scenes": [
+    {
+      "type": "sitesWeb",
+      "say": "Arrête de vendre des sites web à tes clients.",
+      "sub": "Arrête de vendre des sites web à tes clients.",
+      "highlight": [
+        "sites",
+        "web"
+      ]
+    },
+    {
+      "type": "dejaSites",
+      "say": "Toutes les entreprises en ont déjà un.",
+      "sub": "Toutes les entreprises en ont déjà un.",
+      "highlight": [
+        "déjà"
+      ]
+    },
+    {
+      "type": "focus",
+      "say": "Ce qu'elles n'ont pas, c'est ça : un logiciel en 3D, fait sur mesure pour leur métier.",
+      "sub": "Ce qu'elles n'ont pas, c'est ça : un logiciel en 3D, fait sur mesure pour leur métier.",
+      "highlight": [
+        "ça :",
+        "3D,",
+        "mesure"
+      ],
+      "focus": {
+        "title": [
+          "Ce qu'elles n'ont pas",
+          "c'est ça"
+        ],
+        "image": "images/marketing.png",
+        "chips": [
+          {
+            "t": "Logiciel 3D",
+            "w": "3D"
+          },
+          {
+            "t": "Sur mesure",
+            "w": "mesure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Tu le crées avec Claude en vingt minutes, sans écrire une ligne de code.",
+      "sub": "Tu le crées avec Claude en 20 minutes, sans écrire une ligne de code.",
+      "highlight": [
+        "Claude",
+        "20 minutes,"
+      ],
+      "prompt": "Crée-moi un logiciel 3D pour mon agence marketing"
+    },
+    {
+      "type": "prixVente",
+      "say": "Et tu peux le vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et tu peux le vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

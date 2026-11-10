@@ -1,0 +1,348 @@
+{
+  "id": "007",
+  "voice": "Puck",
+  "scenes": [
+    {
+      "type": "teaser",
+      "file": "audio/007/01.wav",
+      "duration": 2.556,
+      "words": [
+        {
+          "text": "Voici",
+          "start": 0,
+          "end": 0.332
+        },
+        {
+          "text": "3",
+          "start": 0.332,
+          "end": 0.598
+        },
+        {
+          "text": "secteurs",
+          "start": 0.598,
+          "end": 0.929
+        },
+        {
+          "text": "qui",
+          "start": 0.929,
+          "end": 1.095
+        },
+        {
+          "text": "vont",
+          "start": 1.095,
+          "end": 1.261
+        },
+        {
+          "text": "s'arracher",
+          "start": 1.261,
+          "end": 1.759
+        },
+        {
+          "text": "ce",
+          "start": 1.759,
+          "end": 1.925
+        },
+        {
+          "text": "logiciel.",
+          "start": 1.925,
+          "end": 2.556
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "file": "audio/007/02.wav",
+      "duration": 4.429,
+      "words": [
+        {
+          "text": "N°1 :",
+          "start": 0,
+          "end": 0.783
+        },
+        {
+          "text": "les",
+          "start": 0.783,
+          "end": 0.615
+        },
+        {
+          "text": "carrosseries.",
+          "start": 0.615,
+          "end": 1.288
+        },
+        {
+          "text": "Chaque",
+          "start": 1.288,
+          "end": 1.804
+        },
+        {
+          "text": "voiture",
+          "start": 1.804,
+          "end": 2.317
+        },
+        {
+          "text": "est",
+          "start": 2.317,
+          "end": 2.522
+        },
+        {
+          "text": "suivie",
+          "start": 2.522,
+          "end": 2.83
+        },
+        {
+          "text": "en",
+          "start": 2.83,
+          "end": 3.035
+        },
+        {
+          "text": "direct",
+          "start": 3.035,
+          "end": 3.445
+        },
+        {
+          "text": "dans",
+          "start": 3.445,
+          "end": 3.65
+        },
+        {
+          "text": "l'atelier.",
+          "start": 3.65,
+          "end": 4.429
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "file": "audio/007/03.wav",
+      "duration": 4.743,
+      "words": [
+        {
+          "text": "N°2 :",
+          "start": 0,
+          "end": 0.411
+        },
+        {
+          "text": "les",
+          "start": 0.411,
+          "end": 0.616
+        },
+        {
+          "text": "restaurants.",
+          "start": 0.616,
+          "end": 1.396
+        },
+        {
+          "text": "Les",
+          "start": 1.396,
+          "end": 1.602
+        },
+        {
+          "text": "tables",
+          "start": 1.602,
+          "end": 1.91
+        },
+        {
+          "text": "et",
+          "start": 1.91,
+          "end": 2.115
+        },
+        {
+          "text": "les",
+          "start": 2.115,
+          "end": 2.32
+        },
+        {
+          "text": "réservations,",
+          "start": 2.32,
+          "end": 3.224
+        },
+        {
+          "text": "sur",
+          "start": 3.224,
+          "end": 3.429
+        },
+        {
+          "text": "une",
+          "start": 3.429,
+          "end": 3.737
+        },
+        {
+          "text": "carte",
+          "start": 3.737,
+          "end": 4.045
+        },
+        {
+          "text": "en",
+          "start": 4.045,
+          "end": 4.25
+        },
+        {
+          "text": "3D.",
+          "start": 4.25,
+          "end": 4.743
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "file": "audio/007/04.wav",
+      "duration": 4.522,
+      "words": [
+        {
+          "text": "N°3 :",
+          "start": 0,
+          "end": 0.452
+        },
+        {
+          "text": "les",
+          "start": 0.452,
+          "end": 0.678
+        },
+        {
+          "text": "agences",
+          "start": 0.678,
+          "end": 1.244
+        },
+        {
+          "text": "immo.",
+          "start": 1.244,
+          "end": 2.071
+        },
+        {
+          "text": "Tous",
+          "start": 2.071,
+          "end": 2.103
+        },
+        {
+          "text": "leurs",
+          "start": 2.103,
+          "end": 2.329
+        },
+        {
+          "text": "biens,",
+          "start": 2.329,
+          "end": 2.467
+        },
+        {
+          "text": "directement",
+          "start": 2.467,
+          "end": 3.55
+        },
+        {
+          "text": "sur",
+          "start": 3.55,
+          "end": 3.776
+        },
+        {
+          "text": "la",
+          "start": 3.776,
+          "end": 4.002
+        },
+        {
+          "text": "carte.",
+          "start": 4.002,
+          "end": 4.522
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/007/05.wav",
+      "duration": 3.235,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.156
+        },
+        {
+          "text": "chaque",
+          "start": 0.156,
+          "end": 0.391
+        },
+        {
+          "text": "logiciel",
+          "start": 0.391,
+          "end": 0.86
+        },
+        {
+          "text": "peut",
+          "start": 0.86,
+          "end": 1.016
+        },
+        {
+          "text": "se",
+          "start": 1.016,
+          "end": 1.172
+        },
+        {
+          "text": "vendre",
+          "start": 1.172,
+          "end": 1.407
+        },
+        {
+          "text": "jusqu'à",
+          "start": 1.407,
+          "end": 1.875
+        },
+        {
+          "text": "7 500 €.",
+          "start": 1.875,
+          "end": 3.235
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/007/06.wav",
+      "duration": 2.177,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.425
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.425,
+          "end": 0.595
+        },
+        {
+          "text": "et",
+          "start": 0.595,
+          "end": 0.765
+        },
+        {
+          "text": "je",
+          "start": 0.765,
+          "end": 0.936
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.936,
+          "end": 1.191
+        },
+        {
+          "text": "le",
+          "start": 1.191,
+          "end": 1.361
+        },
+        {
+          "text": "lien",
+          "start": 1.361,
+          "end": 1.531
+        },
+        {
+          "text": "en",
+          "start": 1.531,
+          "end": 1.701
+        },
+        {
+          "text": "privé.",
+          "start": 1.701,
+          "end": 2.177
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,9 @@ import { CheckIcon, Chip, Counter, ScreenCard, Spark, Stamp, Title, clamp, usePo
 import type { Word } from "./Captions";
 import { C, TITLE, UI } from "./theme";
 import { SCENES2 } from "./scenes2";
+import { SCENES3 } from "./scenes3";
 
-export type SceneProps = { words: Word[]; dur: number; opts?: { prompt?: string } };
+export type SceneProps = { words: Word[]; dur: number; opts?: { prompt?: string; [k: string]: unknown } };
 
 /** frame où commence le mot n° i de la scène */
 const at = (words: Word[], i: number) => Math.round((words[Math.min(i, words.length - 1)]?.start ?? 0) * 30);
@@ -412,4 +413,5 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   prix: Prix,
   cta: Cta,
   ...SCENES2,
-};
+  ...SCENES3,
+} as Record<string, React.FC<SceneProps>>;

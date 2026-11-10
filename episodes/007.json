@@ -1,0 +1,108 @@
+{
+  "id": "007",
+  "titre": "3 secteurs qui vont s'arracher ce logiciel",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "scenes": [
+    {
+      "type": "teaser",
+      "say": "Voici trois secteurs qui vont s'arracher ce logiciel.",
+      "sub": "Voici 3 secteurs qui vont s'arracher ce logiciel.",
+      "highlight": [
+        "3",
+        "s'arracher"
+      ]
+    },
+    {
+      "type": "focus",
+      "say": "Numéro un : les carrosseries. Chaque voiture est suivie en direct dans l'atelier.",
+      "sub": "N°1 : les carrosseries. Chaque voiture est suivie en direct dans l'atelier.",
+      "highlight": [
+        "carrosseries.",
+        "direct"
+      ],
+      "focus": {
+        "kicker": "N°1",
+        "title": [
+          "Les",
+          "carrosseries"
+        ],
+        "image": "images/carrosserie.png",
+        "chips": [
+          {
+            "t": "Atelier en direct",
+            "w": "direct"
+          }
+        ]
+      }
+    },
+    {
+      "type": "focus",
+      "say": "Numéro deux : les restaurants. Les tables et les réservations, sur une carte en 3D.",
+      "sub": "N°2 : les restaurants. Les tables et les réservations, sur une carte en 3D.",
+      "highlight": [
+        "restaurants.",
+        "3D."
+      ],
+      "focus": {
+        "kicker": "N°2",
+        "title": [
+          "Les",
+          "restaurants"
+        ],
+        "image": "images/restaurant.png",
+        "chips": [
+          {
+            "t": "Tables",
+            "w": "tables"
+          },
+          {
+            "t": "Réservations",
+            "w": "réservations"
+          }
+        ]
+      }
+    },
+    {
+      "type": "focus",
+      "say": "Numéro trois : les agences immo. Tous leurs biens, directement sur la carte.",
+      "sub": "N°3 : les agences immo. Tous leurs biens, directement sur la carte.",
+      "highlight": [
+        "immo.",
+        "carte."
+      ],
+      "focus": {
+        "kicker": "N°3",
+        "title": [
+          "Les agences",
+          "immo"
+        ],
+        "image": "images/immobilier.png",
+        "chips": [
+          {
+            "t": "Biens sur la carte",
+            "w": "biens"
+          }
+        ]
+      }
+    },
+    {
+      "type": "prixVente",
+      "say": "Et chaque logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et chaque logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "006",
+  "titre": "Imagine, tu montres ça à un garagiste",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Imagine : tu montres ça à un garagiste.",
+      "sub": "Imagine : tu montres ça à un garagiste.",
+      "highlight": [
+        "ça",
+        "garagiste."
+      ],
+      "focus": {
+        "kicker": "Imagine",
+        "title": [
+          "Tu montres ça",
+          "à un garagiste"
+        ],
+        "image": "images/carrosserie.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "focus",
+      "say": "Tout son atelier en 3D, avec chaque voiture suivie en direct, de l'arrivée à la livraison.",
+      "sub": "Tout son atelier en 3D, avec chaque voiture suivie en direct, de l'arrivée à la livraison.",
+      "highlight": [
+        "3D,",
+        "direct,"
+      ],
+      "focus": {
+        "title": [
+          "Tout son atelier",
+          "en 3D"
+        ],
+        "image": "images/carrosserie.png",
+        "zoom": true,
+        "chips": [
+          {
+            "t": "Suivi des réparations",
+            "w": "voiture"
+          },
+          {
+            "t": "En direct",
+            "w": "direct"
+          }
+        ]
+      }
+    },
+    {
+      "type": "outils",
+      "say": "Le tout connecté à son Outlook, à Teams et à ses fichiers Excel.",
+      "sub": "Le tout connecté à son Outlook, à Teams et à ses fichiers Excel.",
+      "highlight": [
+        "Outlook,",
+        "Teams",
+        "Excel."
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Ce genre d'outil, tu peux le vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Ce genre d'outil, tu peux le vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "etapes",
+      "say": "Et pour le créer : tu donnes mon prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "sub": "Et pour le créer : tu donnes mon prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "highlight": [
+        "Claude,",
+        "prêt."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

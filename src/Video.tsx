@@ -6,7 +6,7 @@ import { SCENES } from "./scenes";
 import { FPS } from "./theme";
 
 export type Timing = { id: string; scenes: { type: string; file: string; duration: number; words: Word[] }[] };
-export type Episode = { scenes: { type: string; highlight?: string[]; prompt?: string }[] };
+export type Episode = { scenes: { type: string; highlight?: string[]; prompt?: string; [k: string]: unknown }[] };
 
 export const GAP = 0.12; // respiration entre deux scènes (s)
 export const OUTRO_HOLD = 1.6; // la dernière scène reste à l'écran après la voix (s)
