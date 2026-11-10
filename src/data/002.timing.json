@@ -1,0 +1,465 @@
+{
+  "id": "002",
+  "voice": "Puck",
+  "scenes": [
+    {
+      "type": "premier",
+      "file": "audio/002/01.wav",
+      "duration": 1.726,
+      "words": [
+        {
+          "text": "Sois",
+          "start": 0,
+          "end": 0.146
+        },
+        {
+          "text": "le",
+          "start": 0.146,
+          "end": 0.293
+        },
+        {
+          "text": "premier",
+          "start": 0.293,
+          "end": 0.585
+        },
+        {
+          "text": "de",
+          "start": 0.585,
+          "end": 0.731
+        },
+        {
+          "text": "ta",
+          "start": 0.731,
+          "end": 0.878
+        },
+        {
+          "text": "ville",
+          "start": 0.878,
+          "end": 1.097
+        },
+        {
+          "text": "à",
+          "start": 1.097,
+          "end": 1.243
+        },
+        {
+          "text": "vendre",
+          "start": 1.243,
+          "end": 1.463
+        },
+        {
+          "text": "ça.",
+          "start": 1.463,
+          "end": 1.726
+        }
+      ]
+    },
+    {
+      "type": "metiers",
+      "file": "audio/002/02.wav",
+      "duration": 4.134,
+      "words": [
+        {
+          "text": "Chaque",
+          "start": 0,
+          "end": 0.238
+        },
+        {
+          "text": "garage,",
+          "start": 0.238,
+          "end": 0.697
+        },
+        {
+          "text": "chaque",
+          "start": 0.697,
+          "end": 0.935
+        },
+        {
+          "text": "restaurant,",
+          "start": 0.935,
+          "end": 1.473
+        },
+        {
+          "text": "chaque",
+          "start": 1.473,
+          "end": 1.711
+        },
+        {
+          "text": "agence",
+          "start": 1.711,
+          "end": 2.107
+        },
+        {
+          "text": "a",
+          "start": 2.107,
+          "end": 2.265
+        },
+        {
+          "text": "besoin",
+          "start": 2.265,
+          "end": 2.582
+        },
+        {
+          "text": "d'un",
+          "start": 2.582,
+          "end": 2.74
+        },
+        {
+          "text": "logiciel",
+          "start": 2.74,
+          "end": 3.215
+        },
+        {
+          "text": "pour",
+          "start": 3.215,
+          "end": 3.374
+        },
+        {
+          "text": "gérer",
+          "start": 3.374,
+          "end": 3.691
+        },
+        {
+          "text": "ses",
+          "start": 3.691,
+          "end": 3.849
+        },
+        {
+          "text": "clients.",
+          "start": 3.849,
+          "end": 4.134
+        }
+      ]
+    },
+    {
+      "type": "vieuxLogiciel",
+      "file": "audio/002/03.wav",
+      "duration": 4.092,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.157
+        },
+        {
+          "text": "plus",
+          "start": 0.157,
+          "end": 0.315
+        },
+        {
+          "text": "de",
+          "start": 0.315,
+          "end": 0.472
+        },
+        {
+          "text": "90 %",
+          "start": 0.472,
+          "end": 1.369
+        },
+        {
+          "text": "utilisent",
+          "start": 1.369,
+          "end": 1.999
+        },
+        {
+          "text": "encore",
+          "start": 1.999,
+          "end": 2.392
+        },
+        {
+          "text": "des",
+          "start": 2.392,
+          "end": 2.55
+        },
+        {
+          "text": "outils",
+          "start": 2.55,
+          "end": 2.864
+        },
+        {
+          "text": "complètement",
+          "start": 2.864,
+          "end": 3.494
+        },
+        {
+          "text": "dépassés.",
+          "start": 3.494,
+          "end": 4.092
+        }
+      ]
+    },
+    {
+      "type": "nouveauLogiciel",
+      "file": "audio/002/04.wav",
+      "duration": 5.228,
+      "words": [
+        {
+          "text": "Toi,",
+          "start": 0,
+          "end": 0.617
+        },
+        {
+          "text": "tu",
+          "start": 0.617,
+          "end": 0.534
+        },
+        {
+          "text": "leur",
+          "start": 0.534,
+          "end": 0.756
+        },
+        {
+          "text": "proposes",
+          "start": 0.756,
+          "end": 1.313
+        },
+        {
+          "text": "ça :",
+          "start": 1.313,
+          "end": 1.892
+        },
+        {
+          "text": "leur",
+          "start": 1.892,
+          "end": 1.846
+        },
+        {
+          "text": "entreprise",
+          "start": 1.846,
+          "end": 2.625
+        },
+        {
+          "text": "en",
+          "start": 2.625,
+          "end": 2.848
+        },
+        {
+          "text": "3D,",
+          "start": 2.848,
+          "end": 3.293
+        },
+        {
+          "text": "animée,",
+          "start": 3.293,
+          "end": 3.977
+        },
+        {
+          "text": "faite",
+          "start": 3.977,
+          "end": 4.271
+        },
+        {
+          "text": "sur",
+          "start": 4.271,
+          "end": 4.494
+        },
+        {
+          "text": "mesure.",
+          "start": 4.494,
+          "end": 5.228
+        }
+      ]
+    },
+    {
+      "type": "avantApres",
+      "file": "audio/002/05.wav",
+      "duration": 4.956,
+      "words": [
+        {
+          "text": "Avant,",
+          "start": 0,
+          "end": 0.362
+        },
+        {
+          "text": "il",
+          "start": 0.362,
+          "end": 0.512
+        },
+        {
+          "text": "fallait",
+          "start": 0.512,
+          "end": 0.813
+        },
+        {
+          "text": "des",
+          "start": 0.813,
+          "end": 0.964
+        },
+        {
+          "text": "mois",
+          "start": 0.964,
+          "end": 1.115
+        },
+        {
+          "text": "de",
+          "start": 1.115,
+          "end": 1.265
+        },
+        {
+          "text": "travail",
+          "start": 1.265,
+          "end": 1.567
+        },
+        {
+          "text": "et",
+          "start": 1.567,
+          "end": 1.717
+        },
+        {
+          "text": "une",
+          "start": 1.717,
+          "end": 1.943
+        },
+        {
+          "text": "équipe",
+          "start": 1.943,
+          "end": 2.32
+        },
+        {
+          "text": "de",
+          "start": 2.32,
+          "end": 2.47
+        },
+        {
+          "text": "développeurs.",
+          "start": 2.47,
+          "end": 2.764
+        },
+        {
+          "text": "Aujourd'hui,",
+          "start": 2.764,
+          "end": 3.418
+        },
+        {
+          "text": "un",
+          "start": 3.418,
+          "end": 3.856
+        },
+        {
+          "text": "prompt",
+          "start": 3.856,
+          "end": 4.007
+        },
+        {
+          "text": "et",
+          "start": 4.007,
+          "end": 4.158
+        },
+        {
+          "text": "Claude",
+          "start": 4.158,
+          "end": 4.384
+        },
+        {
+          "text": "suffisent.",
+          "start": 4.384,
+          "end": 4.956
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/002/06.wav",
+      "duration": 3.166,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.149
+        },
+        {
+          "text": "un",
+          "start": 0.149,
+          "end": 0.299
+        },
+        {
+          "text": "seul",
+          "start": 0.299,
+          "end": 0.448
+        },
+        {
+          "text": "logiciel",
+          "start": 0.448,
+          "end": 0.896
+        },
+        {
+          "text": "peut",
+          "start": 0.896,
+          "end": 1.045
+        },
+        {
+          "text": "se",
+          "start": 1.045,
+          "end": 1.195
+        },
+        {
+          "text": "vendre",
+          "start": 1.195,
+          "end": 1.419
+        },
+        {
+          "text": "jusqu'à",
+          "start": 1.419,
+          "end": 1.867
+        },
+        {
+          "text": "7 500 €.",
+          "start": 1.867,
+          "end": 3.166
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/002/07.wav",
+      "duration": 2.097,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.41
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.41,
+          "end": 0.239
+        },
+        {
+          "text": "et",
+          "start": 0.239,
+          "end": 0.737
+        },
+        {
+          "text": "je",
+          "start": 0.737,
+          "end": 0.901
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.901,
+          "end": 1.147
+        },
+        {
+          "text": "le",
+          "start": 1.147,
+          "end": 1.311
+        },
+        {
+          "text": "lien",
+          "start": 1.311,
+          "end": 1.474
+        },
+        {
+          "text": "en",
+          "start": 1.474,
+          "end": 1.638
+        },
+        {
+          "text": "privé.",
+          "start": 1.638,
+          "end": 2.097
+        }
+      ]
+    }
+  ]
+}

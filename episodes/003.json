@@ -1,0 +1,74 @@
+{
+  "id": "003",
+  "titre": "Transformer 29 € en 7 500 €",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "scenes": [
+    {
+      "type": "equation",
+      "say": "Comment transformer vingt-neuf euros en sept mille cinq cents euros ?",
+      "sub": "Comment transformer 29 € en 7 500 € ?",
+      "highlight": [
+        "29 €",
+        "7 500 €"
+      ]
+    },
+    {
+      "type": "offre",
+      "say": "Vingt-neuf euros, c'est le prix de mon prompt et du guide complet.",
+      "sub": "29 €, c'est le prix de mon prompt et du guide complet.",
+      "highlight": [
+        "29 €,",
+        "prompt",
+        "guide"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Sept mille cinq cents euros, c'est jusqu'où tu peux vendre un seul logiciel en 3D.",
+      "sub": "7 500 €, c'est jusqu'où tu peux vendre un seul logiciel en 3D.",
+      "highlight": [
+        "7 500 €,",
+        "3D."
+      ]
+    },
+    {
+      "type": "secteurs",
+      "say": "Une carte 3D animée pour une carrosserie, un restaurant ou une agence immo.",
+      "sub": "Une carte 3D animée pour une carrosserie, un restaurant ou une agence immo.",
+      "highlight": [
+        "3D",
+        "animée"
+      ]
+    },
+    {
+      "type": "etapes",
+      "say": "Tu donnes le prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "sub": "Tu donnes le prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "highlight": [
+        "Claude,",
+        "prêt."
+      ]
+    },
+    {
+      "type": "script",
+      "say": "Et pour trouver tes clients, t'as le script d'appel et les relances WhatsApp.",
+      "sub": "Et pour trouver tes clients, t'as le script d'appel et les relances WhatsApp.",
+      "highlight": [
+        "clients,",
+        "script",
+        "WhatsApp."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "004",
+  "titre": "J'ai demandé à Claude un logiciel pour un restaurant",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "scenes": [
+    {
+      "type": "promptReveal",
+      "say": "J'ai demandé à Claude un logiciel pour un restaurant... Regarde ce qu'il m'a sorti.",
+      "sub": "J'ai demandé à Claude un logiciel pour un restaurant… Regarde ce qu'il m'a sorti.",
+      "highlight": [
+        "Claude",
+        "Regarde"
+      ]
+    },
+    {
+      "type": "visite",
+      "say": "Tout le restaurant en 3D, avec les tables, les réservations et l'activité en direct.",
+      "sub": "Tout le restaurant en 3D, avec les tables, les réservations et l'activité en direct.",
+      "highlight": [
+        "3D,",
+        "direct."
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Le tout en vingt minutes, sans écrire une seule ligne de code.",
+      "sub": "Le tout en 20 minutes, sans écrire une seule ligne de code.",
+      "highlight": [
+        "20 minutes,",
+        "code."
+      ],
+      "prompt": "Crée-moi un logiciel 3D pour mon restaurant"
+    },
+    {
+      "type": "outils",
+      "say": "Et il se connecte à Outlook, Teams et Excel.",
+      "sub": "Et il se connecte à Outlook, Teams et Excel.",
+      "highlight": [
+        "Outlook,",
+        "Teams",
+        "Excel."
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Ce genre de logiciel, tu peux le vendre jusqu'à sept mille cinq cents euros à n'importe quelle entreprise.",
+      "sub": "Ce genre de logiciel, tu peux le vendre jusqu'à 7 500 € à n'importe quelle entreprise.",
+      "highlight": [
+        "7 500 €"
+      ]
+    },
+    {
+      "type": "inclus",
+      "say": "Mon prompt, le guide et le script d'appel : tout est inclus, pour vingt-neuf euros seulement.",
+      "sub": "Mon prompt, le guide et le script d'appel : tout est inclus, pour 29 € seulement.",
+      "highlight": [
+        "inclus,",
+        "29 €"
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

@@ -12,6 +12,11 @@ Claude lit ce fichier avant chaque vidéo.
   script d'appel + relances WhatsApp, feuille de route en 10 étapes, communauté privée + support 24h/24.
 - Ne jamais inventer de témoignage, de chiffre de vente ou de compte à rebours daté : rester sur les affirmations du site.
 
+## CTA (toujours)
+- Fin de vidéo : « Commente CRM, et je t'envoie le lien en privé » (scène `commenteCRM`).
+- Description : « 👉 Commente « CRM » et je t'envoie le lien … 🚀 #business #ia #claude #entrepreneur #logiciel3d ».
+- Varier les accroches d'une vidéo à l'autre ; mélanger motion design pur et captures du logiciel.
+
 ## Style
 - 9:16, 1080×1920, 30 i/s, ~30-45 s. Fond noir, halo rouge discret.
 - Couleurs : rouge Carreia `#E3261B` (accents), jaune `#FFD43B` (mot prononcé), vert `#22E07A` (montants en €).

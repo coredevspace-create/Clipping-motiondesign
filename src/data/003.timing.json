@@ -1,0 +1,435 @@
+{
+  "id": "003",
+  "voice": "Puck",
+  "scenes": [
+    {
+      "type": "equation",
+      "file": "audio/003/01.wav",
+      "duration": 2.813,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 0,
+          "end": 0.29
+        },
+        {
+          "text": "transformer",
+          "start": 0.29,
+          "end": 0.725
+        },
+        {
+          "text": "29 €",
+          "start": 0.725,
+          "end": 1.407
+        },
+        {
+          "text": "en",
+          "start": 1.407,
+          "end": 1.552
+        },
+        {
+          "text": "7 500 € ?",
+          "start": 1.552,
+          "end": 2.813
+        }
+      ]
+    },
+    {
+      "type": "offre",
+      "file": "audio/003/02.wav",
+      "duration": 3.041,
+      "words": [
+        {
+          "text": "29 €,",
+          "start": 0,
+          "end": 1.154
+        },
+        {
+          "text": "c'est",
+          "start": 1.154,
+          "end": 1.066
+        },
+        {
+          "text": "le",
+          "start": 1.066,
+          "end": 1.241
+        },
+        {
+          "text": "prix",
+          "start": 1.241,
+          "end": 1.416
+        },
+        {
+          "text": "de",
+          "start": 1.416,
+          "end": 1.59
+        },
+        {
+          "text": "mon",
+          "start": 1.59,
+          "end": 1.765
+        },
+        {
+          "text": "prompt",
+          "start": 1.765,
+          "end": 1.94
+        },
+        {
+          "text": "et",
+          "start": 1.94,
+          "end": 2.115
+        },
+        {
+          "text": "du",
+          "start": 2.115,
+          "end": 2.289
+        },
+        {
+          "text": "guide",
+          "start": 2.289,
+          "end": 2.552
+        },
+        {
+          "text": "complet.",
+          "start": 2.552,
+          "end": 3.041
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/003/03.wav",
+      "duration": 3.807,
+      "words": [
+        {
+          "text": "7 500 €,",
+          "start": 0,
+          "end": 1.306
+        },
+        {
+          "text": "c'est",
+          "start": 1.306,
+          "end": 1.463
+        },
+        {
+          "text": "jusqu'où",
+          "start": 1.463,
+          "end": 1.935
+        },
+        {
+          "text": "tu",
+          "start": 1.935,
+          "end": 2.092
+        },
+        {
+          "text": "peux",
+          "start": 2.092,
+          "end": 2.25
+        },
+        {
+          "text": "vendre",
+          "start": 2.25,
+          "end": 2.486
+        },
+        {
+          "text": "un",
+          "start": 2.486,
+          "end": 2.643
+        },
+        {
+          "text": "seul",
+          "start": 2.643,
+          "end": 2.8
+        },
+        {
+          "text": "logiciel",
+          "start": 2.8,
+          "end": 3.272
+        },
+        {
+          "text": "en",
+          "start": 3.272,
+          "end": 3.429
+        },
+        {
+          "text": "3D.",
+          "start": 3.429,
+          "end": 3.807
+        }
+      ]
+    },
+    {
+      "type": "secteurs",
+      "file": "audio/003/04.wav",
+      "duration": 3.319,
+      "words": [
+        {
+          "text": "Une",
+          "start": 0,
+          "end": 0.197
+        },
+        {
+          "text": "carte",
+          "start": 0.197,
+          "end": 0.394
+        },
+        {
+          "text": "3D",
+          "start": 0.394,
+          "end": 0.603
+        },
+        {
+          "text": "animée",
+          "start": 0.603,
+          "end": 0.931
+        },
+        {
+          "text": "pour",
+          "start": 0.931,
+          "end": 1.063
+        },
+        {
+          "text": "une",
+          "start": 1.063,
+          "end": 1.259
+        },
+        {
+          "text": "carrosserie,",
+          "start": 1.259,
+          "end": 1.771
+        },
+        {
+          "text": "un",
+          "start": 1.771,
+          "end": 1.902
+        },
+        {
+          "text": "restaurant",
+          "start": 1.902,
+          "end": 2.296
+        },
+        {
+          "text": "ou",
+          "start": 2.296,
+          "end": 2.427
+        },
+        {
+          "text": "une",
+          "start": 2.427,
+          "end": 2.624
+        },
+        {
+          "text": "agence",
+          "start": 2.624,
+          "end": 2.952
+        },
+        {
+          "text": "immo.",
+          "start": 2.952,
+          "end": 3.319
+        }
+      ]
+    },
+    {
+      "type": "etapes",
+      "file": "audio/003/05.wav",
+      "duration": 3.073,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 0,
+          "end": 0.165
+        },
+        {
+          "text": "donnes",
+          "start": 0.165,
+          "end": 0.413
+        },
+        {
+          "text": "le",
+          "start": 0.413,
+          "end": 0.578
+        },
+        {
+          "text": "prompt",
+          "start": 0.578,
+          "end": 0.743
+        },
+        {
+          "text": "à",
+          "start": 0.743,
+          "end": 0.909
+        },
+        {
+          "text": "Claude,",
+          "start": 0.909,
+          "end": 1.524
+        },
+        {
+          "text": "tu",
+          "start": 1.524,
+          "end": 1.388
+        },
+        {
+          "text": "réponds",
+          "start": 1.388,
+          "end": 1.718
+        },
+        {
+          "text": "à",
+          "start": 1.718,
+          "end": 1.883
+        },
+        {
+          "text": "ses",
+          "start": 1.883,
+          "end": 2.049
+        },
+        {
+          "text": "questions,",
+          "start": 2.049,
+          "end": 2.445
+        },
+        {
+          "text": "et",
+          "start": 2.445,
+          "end": 2.61
+        },
+        {
+          "text": "c'est",
+          "start": 2.61,
+          "end": 2.776
+        },
+        {
+          "text": "prêt.",
+          "start": 2.776,
+          "end": 3.073
+        }
+      ]
+    },
+    {
+      "type": "script",
+      "file": "audio/003/06.wav",
+      "duration": 3.374,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.18
+        },
+        {
+          "text": "pour",
+          "start": 0.18,
+          "end": 0.361
+        },
+        {
+          "text": "trouver",
+          "start": 0.361,
+          "end": 0.722
+        },
+        {
+          "text": "tes",
+          "start": 0.722,
+          "end": 0.902
+        },
+        {
+          "text": "clients,",
+          "start": 0.902,
+          "end": 1.239
+        },
+        {
+          "text": "t'as",
+          "start": 1.239,
+          "end": 1.335
+        },
+        {
+          "text": "le",
+          "start": 1.335,
+          "end": 1.516
+        },
+        {
+          "text": "script",
+          "start": 1.516,
+          "end": 1.696
+        },
+        {
+          "text": "d'appel",
+          "start": 1.696,
+          "end": 2.057
+        },
+        {
+          "text": "et",
+          "start": 2.057,
+          "end": 2.237
+        },
+        {
+          "text": "les",
+          "start": 2.237,
+          "end": 2.418
+        },
+        {
+          "text": "relances",
+          "start": 2.418,
+          "end": 2.869
+        },
+        {
+          "text": "WhatsApp.",
+          "start": 2.869,
+          "end": 3.374
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/003/07.wav",
+      "duration": 1.961,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.383
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.383,
+          "end": 0.536
+        },
+        {
+          "text": "et",
+          "start": 0.536,
+          "end": 0.689
+        },
+        {
+          "text": "je",
+          "start": 0.689,
+          "end": 0.843
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.843,
+          "end": 1.072
+        },
+        {
+          "text": "le",
+          "start": 1.072,
+          "end": 1.225
+        },
+        {
+          "text": "lien",
+          "start": 1.225,
+          "end": 1.379
+        },
+        {
+          "text": "en",
+          "start": 1.379,
+          "end": 1.532
+        },
+        {
+          "text": "privé.",
+          "start": 1.532,
+          "end": 1.961
+        }
+      ]
+    }
+  ]
+}

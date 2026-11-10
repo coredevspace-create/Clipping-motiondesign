@@ -3,15 +3,16 @@ import { Easing, interpolate, spring, useCurrentFrame } from "remotion";
 import { CheckIcon, Chip, Counter, ScreenCard, Spark, Stamp, Title, clamp, usePop } from "./components";
 import type { Word } from "./Captions";
 import { C, TITLE, UI } from "./theme";
+import { SCENES2 } from "./scenes2";
 
-export type SceneProps = { words: Word[]; dur: number };
+export type SceneProps = { words: Word[]; dur: number; opts?: { prompt?: string } };
 
 /** frame où commence le mot n° i de la scène */
 const at = (words: Word[], i: number) => Math.round((words[Math.min(i, words.length - 1)]?.start ?? 0) * 30);
 /** frame où commence le premier mot qui contient `txt` */
-const atWord = (words: Word[], txt: string, from = 0) => {
-  const i = words.findIndex((w, k) => k >= from && w.text.toLowerCase().includes(txt.toLowerCase()));
-  return at(words, i === -1 ? 0 : i);
+const atWord = (words: Word[], txt: string, fallback = 0) => {
+  const i = words.findIndex((w) => w.text.toLowerCase().includes(txt.toLowerCase()));
+  return i === -1 ? fallback : at(words, i);
 };
 
 const Center: React.FC<{ top?: number; children: React.ReactNode }> = ({ top = 560, children }) => (
@@ -53,7 +54,7 @@ export const Hook: React.FC<SceneProps> = ({ words }) => {
 };
 
 // 2. CRÉÉ EN 20 MIN, sans coder : faux chat Claude
-export const VingtMinutes: React.FC<SceneProps> = ({ words, dur }) => {
+export const VingtMinutes: React.FC<SceneProps> = ({ words, dur, opts }) => {
   const f = useCurrentFrame();
   const card = usePop(0, 14, 160);
   const prog = interpolate(f, [8, dur - 22], [0, 100], { ...clamp, easing: Easing.inOut(Easing.quad) });
@@ -80,7 +81,7 @@ export const VingtMinutes: React.FC<SceneProps> = ({ words, dur }) => {
                 padding: "22px 30px", borderRadius: 26, maxWidth: 700, lineHeight: 1.3,
               }}
             >
-              Crée-moi un logiciel 3D pour ma carrosserie
+              {opts?.prompt ?? "Crée-moi un logiciel 3D pour ma carrosserie"}
             </div>
           </div>
           <div style={{ marginTop: 34, fontFamily: UI, fontWeight: 600, fontSize: 32, color: C.grey }}>
@@ -199,7 +200,7 @@ export const Etapes: React.FC<SceneProps> = ({ words }) => {
   const steps = [
     { n: "01", t: "Tu donnes le prompt à Claude", w: "donnes" },
     { n: "02", t: "Tu réponds à ses questions", w: "réponds" },
-    { n: "03", t: "Ton logiciel est prêt", w: "logiciel" },
+    { n: "03", t: "Ton logiciel est prêt", w: "prêt" },
   ];
   return (
     <>
@@ -300,7 +301,7 @@ export const Inclus: React.FC<SceneProps> = ({ words }) => {
     { t: "Le script d'appel", w: "script" },
     { t: "Communauté + support 24h/24", w: "premiers" },
   ];
-  const tAll = atWord(words, "tout");
+  const tAll = atWord(words, "tout", at(words, words.length - 2));
   return (
     <>
       <Title lines={[[{ t: "Tout est" }], [{ t: "inclus", color: C.red, glow: C.redGlow, size: 120 }]]} top={210} />
@@ -312,7 +313,7 @@ export const Inclus: React.FC<SceneProps> = ({ words }) => {
         }}
       >
         {items.map((it) => (
-          <IncludedRow key={it.t} text={it.t} delay={Math.max(0, atWord(words, it.w) - 2)} />
+          <IncludedRow key={it.t} text={it.t} delay={Math.max(0, atWord(words, it.w, atWord(words, "script") + 8) - 2)} />
         ))}
       </div>
       <div style={{ position: "absolute", top: 1170, left: 0, right: 0, display: "flex", justifyContent: "center" }}>
@@ -410,4 +411,5 @@ export const SCENES: Record<string, React.FC<SceneProps>> = {
   inclus: Inclus,
   prix: Prix,
   cta: Cta,
+  ...SCENES2,
 };

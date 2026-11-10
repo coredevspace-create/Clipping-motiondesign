@@ -6,7 +6,7 @@ import { SCENES } from "./scenes";
 import { FPS } from "./theme";
 
 export type Timing = { id: string; scenes: { type: string; file: string; duration: number; words: Word[] }[] };
-export type Episode = { scenes: { type: string; highlight?: string[] }[] };
+export type Episode = { scenes: { type: string; highlight?: string[]; prompt?: string }[] };
 
 export const GAP = 0.12; // respiration entre deux scènes (s)
 export const OUTRO_HOLD = 1.6; // la dernière scène reste à l'écran après la voix (s)
@@ -46,7 +46,7 @@ export const CarreiaVideo: React.FC<{ timing: Timing; episode: Episode }> = ({ t
           <Sequence key={i} from={s.from} durationInFrames={s.len} name={`${i + 1}. ${s.type}`}>
             <Audio src={staticFile(s.file)} />
             <SceneIn>
-              <Scene words={s.words} dur={s.len} />
+              <Scene words={s.words} dur={s.len} opts={episode.scenes[i]} />
             </SceneIn>
             <Captions words={s.words} highlight={episode.scenes[i]?.highlight} />
           </Sequence>
