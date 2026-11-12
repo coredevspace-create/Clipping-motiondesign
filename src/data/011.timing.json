@@ -1,0 +1,359 @@
+{
+  "id": "011",
+  "voice": "Puck",
+  "alertes": [],
+  "scenes": [
+    {
+      "type": "focus",
+      "file": "audio/011/01.wav",
+      "duration": 3.123,
+      "words": [
+        {
+          "text": "3",
+          "start": 0,
+          "end": 0.263
+        },
+        {
+          "text": "raisons",
+          "start": 0.263,
+          "end": 0.592
+        },
+        {
+          "text": "de",
+          "start": 0.592,
+          "end": 0.756
+        },
+        {
+          "text": "vendre",
+          "start": 0.756,
+          "end": 1.003
+        },
+        {
+          "text": "des",
+          "start": 1.003,
+          "end": 1.167
+        },
+        {
+          "text": "logiciels",
+          "start": 1.167,
+          "end": 1.66
+        },
+        {
+          "text": "3D",
+          "start": 1.66,
+          "end": 1.923
+        },
+        {
+          "text": "plutôt",
+          "start": 1.923,
+          "end": 2.252
+        },
+        {
+          "text": "que",
+          "start": 2.252,
+          "end": 2.416
+        },
+        {
+          "text": "des",
+          "start": 2.416,
+          "end": 2.581
+        },
+        {
+          "text": "sites",
+          "start": 2.581,
+          "end": 2.827
+        },
+        {
+          "text": "web.",
+          "start": 2.827,
+          "end": 3.123
+        }
+      ]
+    },
+    {
+      "type": "dejaSites",
+      "file": "audio/011/02.wav",
+      "duration": 2.975,
+      "words": [
+        {
+          "text": "1 :",
+          "start": 0,
+          "end": 0.613
+        },
+        {
+          "text": "les",
+          "start": 0.613,
+          "end": 0.624
+        },
+        {
+          "text": "entreprises",
+          "start": 0.624,
+          "end": 1.352
+        },
+        {
+          "text": "ont",
+          "start": 1.352,
+          "end": 1.56
+        },
+        {
+          "text": "toutes",
+          "start": 1.56,
+          "end": 1.872
+        },
+        {
+          "text": "déjà",
+          "start": 1.872,
+          "end": 2.288
+        },
+        {
+          "text": "un",
+          "start": 2.288,
+          "end": 2.497
+        },
+        {
+          "text": "site.",
+          "start": 2.497,
+          "end": 2.975
+        }
+      ]
+    },
+    {
+      "type": "vieuxLogiciel",
+      "file": "audio/011/03.wav",
+      "duration": 4.296,
+      "words": [
+        {
+          "text": "2 :",
+          "start": 0,
+          "end": 0.358
+        },
+        {
+          "text": "plus",
+          "start": 0.358,
+          "end": 0.537
+        },
+        {
+          "text": "de",
+          "start": 0.537,
+          "end": 0.716
+        },
+        {
+          "text": "90 %",
+          "start": 0.716,
+          "end": 1.736
+        },
+        {
+          "text": "utilisent",
+          "start": 1.736,
+          "end": 2.452
+        },
+        {
+          "text": "encore",
+          "start": 2.452,
+          "end": 2.9
+        },
+        {
+          "text": "des",
+          "start": 2.9,
+          "end": 3.079
+        },
+        {
+          "text": "logiciels",
+          "start": 3.079,
+          "end": 3.616
+        },
+        {
+          "text": "dépassés.",
+          "start": 3.616,
+          "end": 4.296
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/011/04.wav",
+      "duration": 4.393,
+      "words": [
+        {
+          "text": "3 :",
+          "start": 0,
+          "end": 0.396
+        },
+        {
+          "text": "un",
+          "start": 0.396,
+          "end": 0.594
+        },
+        {
+          "text": "seul",
+          "start": 0.594,
+          "end": 0.792
+        },
+        {
+          "text": "logiciel",
+          "start": 0.792,
+          "end": 1.385
+        },
+        {
+          "text": "peut",
+          "start": 1.385,
+          "end": 1.583
+        },
+        {
+          "text": "se",
+          "start": 1.583,
+          "end": 1.781
+        },
+        {
+          "text": "vendre",
+          "start": 1.781,
+          "end": 2.078
+        },
+        {
+          "text": "jusqu'à",
+          "start": 2.078,
+          "end": 2.671
+        },
+        {
+          "text": "7 500 €.",
+          "start": 2.671,
+          "end": 4.393
+        }
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "file": "audio/011/05.wav",
+      "duration": 3.537,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.143
+        },
+        {
+          "text": "avec",
+          "start": 0.143,
+          "end": 0.428
+        },
+        {
+          "text": "Claude,",
+          "start": 0.428,
+          "end": 0.699
+        },
+        {
+          "text": "tu",
+          "start": 0.699,
+          "end": 0.841
+        },
+        {
+          "text": "le",
+          "start": 0.841,
+          "end": 0.984
+        },
+        {
+          "text": "crées",
+          "start": 0.984,
+          "end": 1.127
+        },
+        {
+          "text": "en",
+          "start": 1.127,
+          "end": 1.269
+        },
+        {
+          "text": "20",
+          "start": 1.269,
+          "end": 1.726
+        },
+        {
+          "text": "minutes,",
+          "start": 1.726,
+          "end": 1.87
+        },
+        {
+          "text": "sans",
+          "start": 1.87,
+          "end": 2.282
+        },
+        {
+          "text": "écrire",
+          "start": 2.282,
+          "end": 2.638
+        },
+        {
+          "text": "une",
+          "start": 2.638,
+          "end": 2.852
+        },
+        {
+          "text": "ligne",
+          "start": 2.852,
+          "end": 3.066
+        },
+        {
+          "text": "de",
+          "start": 3.066,
+          "end": 3.209
+        },
+        {
+          "text": "code.",
+          "start": 3.209,
+          "end": 3.537
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/011/06.wav",
+      "duration": 2.115,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.413
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.413,
+          "end": 0.578
+        },
+        {
+          "text": "et",
+          "start": 0.578,
+          "end": 0.743
+        },
+        {
+          "text": "je",
+          "start": 0.743,
+          "end": 0.909
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.909,
+          "end": 1.156
+        },
+        {
+          "text": "le",
+          "start": 1.156,
+          "end": 1.322
+        },
+        {
+          "text": "lien",
+          "start": 1.322,
+          "end": 1.487
+        },
+        {
+          "text": "en",
+          "start": 1.487,
+          "end": 1.652
+        },
+        {
+          "text": "privé.",
+          "start": 1.652,
+          "end": 2.115
+        }
+      ]
+    }
+  ]
+}

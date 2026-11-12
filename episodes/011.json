@@ -1,0 +1,72 @@
+{
+  "id": "011",
+  "titre": "3 raisons de vendre des logiciels 3D plutôt que des sites web",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour vendre des logiciels 3D plutôt que des sites web 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Trois raisons de vendre des logiciels 3D plutôt que des sites web.",
+      "sub": "3 raisons de vendre des logiciels 3D plutôt que des sites web.",
+      "highlight": [
+        "3",
+        "3D"
+      ],
+      "focus": {
+        "kicker": "3 raisons",
+        "title": [
+          "Logiciels 3D",
+          "plutôt que sites web"
+        ],
+        "image": "images/marketing.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "dejaSites",
+      "say": "Un : les entreprises ont toutes déjà un site.",
+      "sub": "1 : les entreprises ont toutes déjà un site.",
+      "highlight": [
+        "déjà"
+      ]
+    },
+    {
+      "type": "vieuxLogiciel",
+      "say": "Deux : plus de quatre-vingt-dix pour cent utilisent encore des logiciels dépassés.",
+      "sub": "2 : plus de 90 % utilisent encore des logiciels dépassés.",
+      "highlight": [
+        "90 %",
+        "dépassés."
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Trois : un seul logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "3 : un seul logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Et avec Claude, tu le crées en vingt minutes, sans écrire une ligne de code.",
+      "sub": "Et avec Claude, tu le crées en 20 minutes, sans écrire une ligne de code.",
+      "highlight": [
+        "Claude,",
+        "20 minutes,"
+      ],
+      "prompt": "Crée-moi un logiciel 3D pour mon agence marketing"
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

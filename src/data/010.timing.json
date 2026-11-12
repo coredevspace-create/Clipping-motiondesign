@@ -1,0 +1,414 @@
+{
+  "id": "010",
+  "voice": "Puck",
+  "alertes": [],
+  "scenes": [
+    {
+      "type": "focus",
+      "file": "audio/010/01.wav",
+      "duration": 2.365,
+      "words": [
+        {
+          "text": "Pas",
+          "start": 0,
+          "end": 0.2
+        },
+        {
+          "text": "besoin",
+          "start": 0.2,
+          "end": 0.601
+        },
+        {
+          "text": "de",
+          "start": 0.601,
+          "end": 0.802
+        },
+        {
+          "text": "savoir",
+          "start": 0.802,
+          "end": 1.203
+        },
+        {
+          "text": "coder",
+          "start": 1.203,
+          "end": 1.603
+        },
+        {
+          "text": "pour",
+          "start": 1.603,
+          "end": 1.804
+        },
+        {
+          "text": "créer",
+          "start": 1.804,
+          "end": 2.004
+        },
+        {
+          "text": "ça.",
+          "start": 2.004,
+          "end": 2.365
+        }
+      ]
+    },
+    {
+      "type": "avantApres",
+      "file": "audio/010/02.wav",
+      "duration": 5.963,
+      "words": [
+        {
+          "text": "Avant,",
+          "start": 0,
+          "end": 0.435
+        },
+        {
+          "text": "il",
+          "start": 0.435,
+          "end": 0.616
+        },
+        {
+          "text": "fallait",
+          "start": 0.616,
+          "end": 0.979
+        },
+        {
+          "text": "des",
+          "start": 0.979,
+          "end": 1.16
+        },
+        {
+          "text": "mois",
+          "start": 1.16,
+          "end": 1.341
+        },
+        {
+          "text": "de",
+          "start": 1.341,
+          "end": 1.522
+        },
+        {
+          "text": "travail",
+          "start": 1.522,
+          "end": 1.885
+        },
+        {
+          "text": "et",
+          "start": 1.885,
+          "end": 2.066
+        },
+        {
+          "text": "une",
+          "start": 2.066,
+          "end": 2.338
+        },
+        {
+          "text": "équipe",
+          "start": 2.338,
+          "end": 2.791
+        },
+        {
+          "text": "de",
+          "start": 2.791,
+          "end": 2.972
+        },
+        {
+          "text": "développeurs.",
+          "start": 2.972,
+          "end": 4.136
+        },
+        {
+          "text": "Aujourd'hui,",
+          "start": 4.136,
+          "end": 4.136
+        },
+        {
+          "text": "un",
+          "start": 4.136,
+          "end": 4.64
+        },
+        {
+          "text": "prompt",
+          "start": 4.64,
+          "end": 4.821
+        },
+        {
+          "text": "et",
+          "start": 4.821,
+          "end": 5.002
+        },
+        {
+          "text": "Claude",
+          "start": 5.002,
+          "end": 5.274
+        },
+        {
+          "text": "suffisent.",
+          "start": 5.274,
+          "end": 5.963
+        }
+      ]
+    },
+    {
+      "type": "etapes",
+      "file": "audio/010/03.wav",
+      "duration": 4.2,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 0,
+          "end": 0.186
+        },
+        {
+          "text": "donnes",
+          "start": 0.186,
+          "end": 0.465
+        },
+        {
+          "text": "mon",
+          "start": 0.465,
+          "end": 0.65
+        },
+        {
+          "text": "prompt",
+          "start": 0.65,
+          "end": 0.836
+        },
+        {
+          "text": "à",
+          "start": 0.836,
+          "end": 1.022
+        },
+        {
+          "text": "Claude,",
+          "start": 1.022,
+          "end": 1.71
+        },
+        {
+          "text": "tu",
+          "start": 1.71,
+          "end": 1.561
+        },
+        {
+          "text": "réponds",
+          "start": 1.561,
+          "end": 1.933
+        },
+        {
+          "text": "à",
+          "start": 1.933,
+          "end": 2.119
+        },
+        {
+          "text": "ses",
+          "start": 2.119,
+          "end": 2.304
+        },
+        {
+          "text": "questions,",
+          "start": 2.304,
+          "end": 2.75
+        },
+        {
+          "text": "et",
+          "start": 2.75,
+          "end": 2.936
+        },
+        {
+          "text": "ton",
+          "start": 2.936,
+          "end": 3.122
+        },
+        {
+          "text": "logiciel",
+          "start": 3.122,
+          "end": 3.68
+        },
+        {
+          "text": "est",
+          "start": 3.68,
+          "end": 3.865
+        },
+        {
+          "text": "prêt.",
+          "start": 3.865,
+          "end": 4.2
+        }
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "file": "audio/010/04.wav",
+      "duration": 5.606,
+      "words": [
+        {
+          "text": "Résultat :",
+          "start": 0,
+          "end": 0.387
+        },
+        {
+          "text": "un",
+          "start": 0.387,
+          "end": 0.869
+        },
+        {
+          "text": "logiciel",
+          "start": 0.869,
+          "end": 1.461
+        },
+        {
+          "text": "en",
+          "start": 1.461,
+          "end": 1.658
+        },
+        {
+          "text": "3D",
+          "start": 1.658,
+          "end": 1.974
+        },
+        {
+          "text": "en",
+          "start": 1.974,
+          "end": 2.171
+        },
+        {
+          "text": "20",
+          "start": 2.171,
+          "end": 2.803
+        },
+        {
+          "text": "minutes,",
+          "start": 2.803,
+          "end": 3.448
+        },
+        {
+          "text": "sans",
+          "start": 3.448,
+          "end": 3.573
+        },
+        {
+          "text": "écrire",
+          "start": 3.573,
+          "end": 4.066
+        },
+        {
+          "text": "une",
+          "start": 4.066,
+          "end": 4.362
+        },
+        {
+          "text": "seule",
+          "start": 4.362,
+          "end": 4.659
+        },
+        {
+          "text": "ligne",
+          "start": 4.659,
+          "end": 4.955
+        },
+        {
+          "text": "de",
+          "start": 4.955,
+          "end": 5.152
+        },
+        {
+          "text": "code.",
+          "start": 5.152,
+          "end": 5.606
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/010/05.wav",
+      "duration": 2.705,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.157
+        },
+        {
+          "text": "tu",
+          "start": 0.157,
+          "end": 0.315
+        },
+        {
+          "text": "peux",
+          "start": 0.315,
+          "end": 0.472
+        },
+        {
+          "text": "le",
+          "start": 0.472,
+          "end": 0.629
+        },
+        {
+          "text": "vendre",
+          "start": 0.629,
+          "end": 0.865
+        },
+        {
+          "text": "jusqu'à",
+          "start": 0.865,
+          "end": 1.337
+        },
+        {
+          "text": "7 500 €.",
+          "start": 1.337,
+          "end": 2.705
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/010/06.wav",
+      "duration": 2.36,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.461
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.461,
+          "end": 0.645
+        },
+        {
+          "text": "et",
+          "start": 0.645,
+          "end": 0.83
+        },
+        {
+          "text": "je",
+          "start": 0.83,
+          "end": 1.014
+        },
+        {
+          "text": "t'envoie",
+          "start": 1.014,
+          "end": 1.291
+        },
+        {
+          "text": "le",
+          "start": 1.291,
+          "end": 1.475
+        },
+        {
+          "text": "lien",
+          "start": 1.475,
+          "end": 1.66
+        },
+        {
+          "text": "en",
+          "start": 1.66,
+          "end": 1.844
+        },
+        {
+          "text": "privé.",
+          "start": 1.844,
+          "end": 2.36
+        }
+      ]
+    }
+  ]
+}

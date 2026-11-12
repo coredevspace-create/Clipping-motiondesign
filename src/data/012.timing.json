@@ -1,0 +1,314 @@
+{
+  "id": "012",
+  "voice": "Puck",
+  "alertes": [
+    "scène 1 (focus) : débit 6.8 syl/s contre 5.0 en moyenne → vérifier la coupure"
+  ],
+  "scenes": [
+    {
+      "type": "focus",
+      "file": "audio/012/01.wav",
+      "duration": 1.27,
+      "words": [
+        {
+          "text": "Combien",
+          "start": 0,
+          "end": 0.289
+        },
+        {
+          "text": "tu",
+          "start": 0.289,
+          "end": 0.433
+        },
+        {
+          "text": "facturerais",
+          "start": 0.433,
+          "end": 1.01
+        },
+        {
+          "text": "ça ?",
+          "start": 1.01,
+          "end": 1.27
+        }
+      ]
+    },
+    {
+      "type": "visite",
+      "file": "audio/012/02.wav",
+      "duration": 5.299,
+      "words": [
+        {
+          "text": "Tout",
+          "start": 0,
+          "end": 0.198
+        },
+        {
+          "text": "un",
+          "start": 0.198,
+          "end": 0.397
+        },
+        {
+          "text": "restaurant",
+          "start": 0.397,
+          "end": 0.992
+        },
+        {
+          "text": "en",
+          "start": 0.992,
+          "end": 1.191
+        },
+        {
+          "text": "3D,",
+          "start": 1.191,
+          "end": 1.678
+        },
+        {
+          "text": "avec",
+          "start": 1.678,
+          "end": 1.985
+        },
+        {
+          "text": "les",
+          "start": 1.985,
+          "end": 2.183
+        },
+        {
+          "text": "tables,",
+          "start": 2.183,
+          "end": 2.601
+        },
+        {
+          "text": "les",
+          "start": 2.601,
+          "end": 2.759
+        },
+        {
+          "text": "réservations",
+          "start": 2.759,
+          "end": 3.553
+        },
+        {
+          "text": "et",
+          "start": 3.553,
+          "end": 3.751
+        },
+        {
+          "text": "l'activité",
+          "start": 3.751,
+          "end": 4.545
+        },
+        {
+          "text": "en",
+          "start": 4.545,
+          "end": 4.743
+        },
+        {
+          "text": "direct.",
+          "start": 4.743,
+          "end": 5.299
+        }
+      ]
+    },
+    {
+      "type": "hook",
+      "file": "audio/012/03.wav",
+      "duration": 3.566,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 0,
+          "end": 0.164
+        },
+        {
+          "text": "genre",
+          "start": 0.164,
+          "end": 0.411
+        },
+        {
+          "text": "de",
+          "start": 0.411,
+          "end": 0.575
+        },
+        {
+          "text": "logiciel",
+          "start": 0.575,
+          "end": 1.068
+        },
+        {
+          "text": "peut",
+          "start": 1.068,
+          "end": 1.232
+        },
+        {
+          "text": "se",
+          "start": 1.232,
+          "end": 1.397
+        },
+        {
+          "text": "vendre",
+          "start": 1.397,
+          "end": 1.643
+        },
+        {
+          "text": "jusqu'à",
+          "start": 1.643,
+          "end": 2.136
+        },
+        {
+          "text": "7 500 €.",
+          "start": 2.136,
+          "end": 3.566
+        }
+      ]
+    },
+    {
+      "type": "offre",
+      "file": "audio/012/04.wav",
+      "duration": 4.885,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.193
+        },
+        {
+          "text": "pour",
+          "start": 0.193,
+          "end": 0.386
+        },
+        {
+          "text": "le",
+          "start": 0.386,
+          "end": 0.579
+        },
+        {
+          "text": "créer,",
+          "start": 0.579,
+          "end": 1.003
+        },
+        {
+          "text": "il",
+          "start": 1.003,
+          "end": 1.043
+        },
+        {
+          "text": "te",
+          "start": 1.043,
+          "end": 1.236
+        },
+        {
+          "text": "faut",
+          "start": 1.236,
+          "end": 1.429
+        },
+        {
+          "text": "juste",
+          "start": 1.429,
+          "end": 1.718
+        },
+        {
+          "text": "mon",
+          "start": 1.718,
+          "end": 1.912
+        },
+        {
+          "text": "prompt",
+          "start": 1.912,
+          "end": 2.105
+        },
+        {
+          "text": "et",
+          "start": 2.105,
+          "end": 2.298
+        },
+        {
+          "text": "le",
+          "start": 2.298,
+          "end": 2.491
+        },
+        {
+          "text": "guide",
+          "start": 2.491,
+          "end": 2.78
+        },
+        {
+          "text": "complet,",
+          "start": 2.78,
+          "end": 3.335
+        },
+        {
+          "text": "au",
+          "start": 3.335,
+          "end": 3.437
+        },
+        {
+          "text": "prix",
+          "start": 3.437,
+          "end": 3.63
+        },
+        {
+          "text": "de",
+          "start": 3.63,
+          "end": 3.823
+        },
+        {
+          "text": "29 €.",
+          "start": 3.823,
+          "end": 4.885
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/012/05.wav",
+      "duration": 2.322,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.454
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.454,
+          "end": 0.635
+        },
+        {
+          "text": "et",
+          "start": 0.635,
+          "end": 0.816
+        },
+        {
+          "text": "je",
+          "start": 0.816,
+          "end": 0.998
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.998,
+          "end": 1.27
+        },
+        {
+          "text": "le",
+          "start": 1.27,
+          "end": 1.451
+        },
+        {
+          "text": "lien",
+          "start": 1.451,
+          "end": 1.633
+        },
+        {
+          "text": "en",
+          "start": 1.633,
+          "end": 1.814
+        },
+        {
+          "text": "privé.",
+          "start": 1.814,
+          "end": 2.322
+        }
+      ]
+    }
+  ]
+}

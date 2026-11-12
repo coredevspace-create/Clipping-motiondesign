@@ -1,0 +1,73 @@
+{
+  "id": "008",
+  "titre": "Le business IA dont personne ne parle encore",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour te lancer sur ce business IA avant tout le monde 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Voici le business IA dont personne ne parle encore.",
+      "sub": "Voici le business IA dont personne ne parle encore.",
+      "highlight": [
+        "IA",
+        "encore."
+      ],
+      "focus": {
+        "kicker": "Business IA",
+        "title": [
+          "Personne n'en parle",
+          "encore"
+        ],
+        "image": "images/restaurant.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "vieuxLogiciel",
+      "say": "Plus de quatre-vingt-dix pour cent des entreprises utilisent encore des logiciels dépassés.",
+      "sub": "Plus de 90 % des entreprises utilisent encore des logiciels dépassés.",
+      "highlight": [
+        "90 %",
+        "dépassés."
+      ]
+    },
+    {
+      "type": "nouveauLogiciel",
+      "say": "Toi, tu arrives avec ça : une carte en 3D, animée, faite sur mesure pour leur métier.",
+      "sub": "Toi, tu arrives avec ça : une carte en 3D, animée, faite sur mesure pour leur métier.",
+      "highlight": [
+        "ça :",
+        "3D,",
+        "mesure"
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Tu la crées avec Claude en vingt minutes, sans écrire une ligne de code.",
+      "sub": "Tu la crées avec Claude en 20 minutes, sans écrire une ligne de code.",
+      "highlight": [
+        "Claude",
+        "20 minutes,"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Et un seul logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et un seul logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

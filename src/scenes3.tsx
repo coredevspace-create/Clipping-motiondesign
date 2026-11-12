@@ -96,7 +96,7 @@ export const Focus: React.FC<SceneProps & { opts?: { focus?: FocusOpts } }> = ({
           }}>{o.kicker}</div>
         </div>
       )}
-      <Title lines={[[{ t: o.title[0] }], [{ t: o.title[1], color: big ? C.white : C.red, glow: big ? undefined : C.redGlow, size: 100 }]]} top={o.kicker ? (big ? 320 : 290) : 210} delay={o.kicker ? 4 : 0} />
+      <Title lines={[[{ t: o.title[0], size: fit(o.title[0], 76) }], [{ t: o.title[1], color: big ? C.white : C.red, glow: big ? undefined : C.redGlow, size: fit(o.title[1], 100) }]]} top={o.kicker ? (big ? 320 : 290) : 210} delay={o.kicker ? 4 : 0} />
       <Box top={o.kicker ? (big ? 600 : 580) : 540}>
         {o.zoom ? (
           <div style={{ width: 980, height: 620, borderRadius: 40, overflow: "hidden", border: "10px solid #fff", boxShadow: "0 40px 100px rgba(0,0,0,0.6)" }}>
@@ -118,6 +118,9 @@ export const Focus: React.FC<SceneProps & { opts?: { focus?: FocusOpts } }> = ({
     </>
   );
 };
+
+/** taille de police pour qu'une ligne en capitales tienne sur ~980 px */
+const fit = (t: string, max: number) => Math.min(max, Math.floor(1300 / Math.max(1, t.length)));
 
 const LiveDot = () => {
   const f = useCurrentFrame();

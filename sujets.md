@@ -12,13 +12,13 @@ Varier les structures d'un jour à l'autre : question, POV / « Imagine », list
 - [x] Arrête de vendre des sites web (005)
 - [x] Imagine : tu montres ça à un garagiste (006)
 - [x] 3 secteurs qui vont s'arracher ce logiciel (007)
+- [x] Le business IA dont personne ne parle encore (2026-11-12, 008)
+- [x] Imagine : tu montres ça au gérant d'une agence immo (2026-11-12, 009)
+- [x] Pas besoin de savoir coder pour créer ça (2026-11-12, 010)
+- [x] 3 raisons de vendre des logiciels 3D plutôt que des sites web (2026-11-12, 011)
+- [x] Combien tu facturerais ça ? (révélation : jusqu'à 7 500 €) (2026-11-12, 012)
 
 ## À faire
-- [ ] Le business IA dont personne ne parle encore
-- [ ] Imagine : tu montres ça au gérant d'une agence immo
-- [ ] Pas besoin de savoir coder pour créer ça
-- [ ] 3 raisons de vendre des logiciels 3D plutôt que des sites web
-- [ ] Combien tu facturerais ça ? (révélation : jusqu'à 7 500 €)
 - [ ] Avant, ce logiciel coûtait des mois de développement. Aujourd'hui : 1 prompt
 - [ ] POV : ton premier client voit son restaurant en 3D
 - [ ] Les entreprises de ta ville utilisent encore ça (vieux logiciel)

@@ -1,0 +1,73 @@
+{
+  "id": "010",
+  "titre": "Pas besoin de savoir coder pour créer ça",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour créer ton logiciel 3D sans coder 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Pas besoin de savoir coder pour créer ça.",
+      "sub": "Pas besoin de savoir coder pour créer ça.",
+      "highlight": [
+        "coder",
+        "ça."
+      ],
+      "focus": {
+        "kicker": "0 ligne de code",
+        "title": [
+          "Pas besoin de coder",
+          "pour créer ça"
+        ],
+        "image": "images/carrosserie.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "avantApres",
+      "say": "Avant, il fallait des mois de travail et une équipe de développeurs. Aujourd'hui, un prompt et Claude suffisent.",
+      "sub": "Avant, il fallait des mois de travail et une équipe de développeurs. Aujourd'hui, un prompt et Claude suffisent.",
+      "highlight": [
+        "Aujourd'hui,",
+        "prompt",
+        "Claude"
+      ]
+    },
+    {
+      "type": "etapes",
+      "say": "Tu donnes mon prompt à Claude, tu réponds à ses questions, et ton logiciel est prêt.",
+      "sub": "Tu donnes mon prompt à Claude, tu réponds à ses questions, et ton logiciel est prêt.",
+      "highlight": [
+        "Claude,",
+        "prêt."
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Résultat : un logiciel en 3D en vingt minutes, sans écrire une seule ligne de code.",
+      "sub": "Résultat : un logiciel en 3D en 20 minutes, sans écrire une seule ligne de code.",
+      "highlight": [
+        "20 minutes,",
+        "code."
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Et tu peux le vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et tu peux le vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

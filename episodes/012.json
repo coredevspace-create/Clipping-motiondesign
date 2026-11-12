@@ -1,0 +1,64 @@
+{
+  "id": "012",
+  "titre": "Combien tu facturerais ça ?",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour découvrir combien tu peux le vendre et créer le même 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Combien tu facturerais ça ?",
+      "sub": "Combien tu facturerais ça ?",
+      "highlight": [
+        "Combien",
+        "ça ?"
+      ],
+      "focus": {
+        "kicker": "Question",
+        "title": [
+          "Combien tu",
+          "facturerais ça ?"
+        ],
+        "image": "images/restaurant.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "visite",
+      "say": "Tout un restaurant en 3D, avec les tables, les réservations et l'activité en direct.",
+      "sub": "Tout un restaurant en 3D, avec les tables, les réservations et l'activité en direct.",
+      "highlight": [
+        "3D,",
+        "direct."
+      ]
+    },
+    {
+      "type": "hook",
+      "say": "Ce genre de logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Ce genre de logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "offre",
+      "say": "Et pour le créer, il te faut juste mon prompt et le guide complet, au prix de vingt-neuf euros.",
+      "sub": "Et pour le créer, il te faut juste mon prompt et le guide complet, au prix de 29 €.",
+      "highlight": [
+        "prompt",
+        "guide",
+        "29 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}
