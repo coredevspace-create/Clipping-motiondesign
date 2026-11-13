@@ -1,0 +1,362 @@
+{
+  "id": "013",
+  "voice": "Puck",
+  "alertes": [],
+  "scenes": [
+    {
+      "type": "focus",
+      "file": "audio/013/01.wav",
+      "duration": 3.348,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 0,
+          "end": 0.19
+        },
+        {
+          "text": "logiciel,",
+          "start": 0.19,
+          "end": 0.921
+        },
+        {
+          "text": "avant,",
+          "start": 0.921,
+          "end": 0.921
+        },
+        {
+          "text": "c'était",
+          "start": 0.921,
+          "end": 1.674
+        },
+        {
+          "text": "des",
+          "start": 1.674,
+          "end": 1.864
+        },
+        {
+          "text": "mois",
+          "start": 1.864,
+          "end": 2.054
+        },
+        {
+          "text": "de",
+          "start": 2.054,
+          "end": 2.245
+        },
+        {
+          "text": "développement.",
+          "start": 2.245,
+          "end": 3.348
+        }
+      ]
+    },
+    {
+      "type": "avantApres",
+      "file": "audio/013/02.wav",
+      "duration": 6.154,
+      "words": [
+        {
+          "text": "Avant,",
+          "start": 0,
+          "end": 0.411
+        },
+        {
+          "text": "il",
+          "start": 0.411,
+          "end": 0.583
+        },
+        {
+          "text": "fallait",
+          "start": 0.583,
+          "end": 0.926
+        },
+        {
+          "text": "des",
+          "start": 0.926,
+          "end": 1.097
+        },
+        {
+          "text": "mois",
+          "start": 1.097,
+          "end": 1.269
+        },
+        {
+          "text": "de",
+          "start": 1.269,
+          "end": 1.44
+        },
+        {
+          "text": "travail",
+          "start": 1.44,
+          "end": 1.783
+        },
+        {
+          "text": "et",
+          "start": 1.783,
+          "end": 1.954
+        },
+        {
+          "text": "toute",
+          "start": 1.954,
+          "end": 2.211
+        },
+        {
+          "text": "une",
+          "start": 2.211,
+          "end": 2.468
+        },
+        {
+          "text": "équipe",
+          "start": 2.468,
+          "end": 2.897
+        },
+        {
+          "text": "de",
+          "start": 2.897,
+          "end": 3.068
+        },
+        {
+          "text": "développeurs.",
+          "start": 3.068,
+          "end": 3.94
+        },
+        {
+          "text": "Aujourd'hui,",
+          "start": 3.94,
+          "end": 4.474
+        },
+        {
+          "text": "il",
+          "start": 4.474,
+          "end": 4.645
+        },
+        {
+          "text": "te",
+          "start": 4.645,
+          "end": 4.817
+        },
+        {
+          "text": "faut",
+          "start": 4.817,
+          "end": 4.988
+        },
+        {
+          "text": "juste",
+          "start": 4.988,
+          "end": 5.245
+        },
+        {
+          "text": "un",
+          "start": 5.245,
+          "end": 5.417
+        },
+        {
+          "text": "prompt",
+          "start": 5.417,
+          "end": 5.588
+        },
+        {
+          "text": "et",
+          "start": 5.588,
+          "end": 5.76
+        },
+        {
+          "text": "Claude.",
+          "start": 5.76,
+          "end": 5.805
+        }
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "file": "audio/013/03.wav",
+      "duration": 4.704,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 0,
+          "end": 0.161
+        },
+        {
+          "text": "réponds",
+          "start": 0.161,
+          "end": 0.483
+        },
+        {
+          "text": "à",
+          "start": 0.483,
+          "end": 0.644
+        },
+        {
+          "text": "ses",
+          "start": 0.644,
+          "end": 0.805
+        },
+        {
+          "text": "questions,",
+          "start": 0.805,
+          "end": 1.294
+        },
+        {
+          "text": "et",
+          "start": 1.294,
+          "end": 1.353
+        },
+        {
+          "text": "en",
+          "start": 1.353,
+          "end": 1.514
+        },
+        {
+          "text": "20",
+          "start": 1.514,
+          "end": 2.03
+        },
+        {
+          "text": "minutes,",
+          "start": 2.03,
+          "end": 2.244
+        },
+        {
+          "text": "ton",
+          "start": 2.244,
+          "end": 2.658
+        },
+        {
+          "text": "logiciel",
+          "start": 2.658,
+          "end": 3.141
+        },
+        {
+          "text": "est",
+          "start": 3.141,
+          "end": 3.302
+        },
+        {
+          "text": "prêt,",
+          "start": 3.302,
+          "end": 3.227
+        },
+        {
+          "text": "sans",
+          "start": 3.227,
+          "end": 3.689
+        },
+        {
+          "text": "une",
+          "start": 3.689,
+          "end": 3.931
+        },
+        {
+          "text": "ligne",
+          "start": 3.931,
+          "end": 4.172
+        },
+        {
+          "text": "de",
+          "start": 4.172,
+          "end": 4.333
+        },
+        {
+          "text": "code.",
+          "start": 4.333,
+          "end": 4.704
+        }
+      ]
+    },
+    {
+      "type": "prixVente",
+      "file": "audio/013/04.wav",
+      "duration": 3.129,
+      "words": [
+        {
+          "text": "Ensuite,",
+          "start": 0,
+          "end": 0.475
+        },
+        {
+          "text": "tu",
+          "start": 0.475,
+          "end": 0.639
+        },
+        {
+          "text": "peux",
+          "start": 0.639,
+          "end": 0.803
+        },
+        {
+          "text": "le",
+          "start": 0.803,
+          "end": 0.967
+        },
+        {
+          "text": "vendre",
+          "start": 0.967,
+          "end": 1.212
+        },
+        {
+          "text": "jusqu'à",
+          "start": 1.212,
+          "end": 1.704
+        },
+        {
+          "text": "7 500 €.",
+          "start": 1.704,
+          "end": 3.129
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/013/05.wav",
+      "duration": 2.324,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.454
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.454,
+          "end": 0.635
+        },
+        {
+          "text": "et",
+          "start": 0.635,
+          "end": 0.817
+        },
+        {
+          "text": "je",
+          "start": 0.817,
+          "end": 0.998
+        },
+        {
+          "text": "t'envoie",
+          "start": 0.998,
+          "end": 1.271
+        },
+        {
+          "text": "le",
+          "start": 1.271,
+          "end": 1.452
+        },
+        {
+          "text": "lien",
+          "start": 1.452,
+          "end": 1.634
+        },
+        {
+          "text": "en",
+          "start": 1.634,
+          "end": 1.815
+        },
+        {
+          "text": "privé.",
+          "start": 1.815,
+          "end": 2.324
+        }
+      ]
+    }
+  ]
+}

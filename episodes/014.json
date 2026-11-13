@@ -1,0 +1,73 @@
+{
+  "id": "014",
+  "titre": "Imagine : ton premier client voit son restaurant en 3D",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour créer le même pour les restaurants de ta ville 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Imagine : ton premier client découvre son restaurant en 3D.",
+      "sub": "Imagine : ton premier client découvre son restaurant en 3D.",
+      "highlight": [
+        "client",
+        "3D."
+      ],
+      "focus": {
+        "kicker": "Imagine",
+        "title": [
+          "Ton client voit",
+          "son resto en 3D"
+        ],
+        "image": "images/restaurant.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "visite",
+      "say": "Toutes ses tables, ses réservations et l'activité de la salle en direct.",
+      "sub": "Toutes ses tables, ses réservations et l'activité de la salle en direct.",
+      "highlight": [
+        "tables,",
+        "direct."
+      ]
+    },
+    {
+      "type": "outils",
+      "say": "Le tout connecté à son Outlook, à Teams et à ses fichiers Excel.",
+      "sub": "Le tout connecté à son Outlook, à Teams et à ses fichiers Excel.",
+      "highlight": [
+        "Outlook,",
+        "Teams",
+        "Excel."
+      ]
+    },
+    {
+      "type": "hook",
+      "say": "Ce genre de logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Ce genre de logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "etapes",
+      "say": "Et pour le créer : tu donnes mon prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "sub": "Et pour le créer : tu donnes mon prompt à Claude, tu réponds à ses questions, et c'est prêt.",
+      "highlight": [
+        "Claude,",
+        "prêt."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

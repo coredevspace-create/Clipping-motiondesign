@@ -1,0 +1,62 @@
+{
+  "id": "017",
+  "titre": "Un garage, un resto, une agence : ils ont tous le même problème",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour leur apporter la solution en 3D 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "metiers",
+      "say": "Un garage, un resto, une agence : ils ont tous le même problème.",
+      "sub": "Un garage, un resto, une agence : ils ont tous le même problème.",
+      "highlight": [
+        "problème."
+      ]
+    },
+    {
+      "type": "vieuxLogiciel",
+      "say": "Plus de quatre-vingt-dix pour cent utilisent encore des logiciels dépassés.",
+      "sub": "Plus de 90 % utilisent encore des logiciels dépassés.",
+      "highlight": [
+        "90 %",
+        "dépassés."
+      ]
+    },
+    {
+      "type": "secteurs",
+      "say": "La solution : un logiciel en 3D pour une carrosserie, un restaurant ou une agence immo.",
+      "sub": "La solution : un logiciel en 3D pour une carrosserie, un restaurant ou une agence immo.",
+      "highlight": [
+        "solution :",
+        "3D"
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Tu le crées avec Claude en vingt minutes, sans écrire une ligne de code.",
+      "sub": "Tu le crées avec Claude en 20 minutes, sans écrire une ligne de code.",
+      "highlight": [
+        "Claude",
+        "20 minutes,"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Et tu peux le vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et tu peux le vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

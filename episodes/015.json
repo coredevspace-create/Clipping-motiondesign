@@ -1,0 +1,55 @@
+{
+  "id": "015",
+  "titre": "Les entreprises de ta ville utilisent encore ça",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour leur proposer un logiciel 3D à la place 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "vieuxLogiciel",
+      "say": "Les entreprises de ta ville utilisent encore ça.",
+      "sub": "Les entreprises de ta ville utilisent encore ça.",
+      "highlight": [
+        "encore",
+        "ça."
+      ]
+    },
+    {
+      "type": "metiers",
+      "say": "Le garage, le restaurant, l'agence du coin : ils ont tous besoin d'un vrai logiciel pour gérer leurs clients.",
+      "sub": "Le garage, le restaurant, l'agence du coin : ils ont tous besoin d'un vrai logiciel pour gérer leurs clients.",
+      "highlight": [
+        "besoin",
+        "logiciel"
+      ]
+    },
+    {
+      "type": "nouveauLogiciel",
+      "say": "Toi, tu arrives avec ça : une carte en 3D, animée, faite sur mesure pour leur métier.",
+      "sub": "Toi, tu arrives avec ça : une carte en 3D, animée, faite sur mesure pour leur métier.",
+      "highlight": [
+        "ça :",
+        "3D,",
+        "mesure"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Et un seul logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et un seul logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

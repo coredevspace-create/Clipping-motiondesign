@@ -1,0 +1,72 @@
+{
+  "id": "016",
+  "titre": "Ce que je donnerais à quelqu'un qui veut se lancer avec l'IA",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour te lancer avec l'IA 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Si tu veux te lancer avec l'IA, voilà ce que je te donnerais.",
+      "sub": "Si tu veux te lancer avec l'IA, voilà ce que je te donnerais.",
+      "highlight": [
+        "IA,",
+        "donnerais."
+      ],
+      "focus": {
+        "kicker": "Conseil",
+        "title": [
+          "Tu veux te lancer",
+          "avec l'IA ?"
+        ],
+        "image": "images/marketing.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "offre",
+      "say": "Mon prompt et le guide complet, au prix de vingt-neuf euros.",
+      "sub": "Mon prompt et le guide complet, au prix de 29 €.",
+      "highlight": [
+        "prompt",
+        "guide",
+        "29 €."
+      ]
+    },
+    {
+      "type": "inclus",
+      "say": "Le prompt, le guide, et le script d'appel pour signer tes premiers clients : tout est inclus.",
+      "sub": "Le prompt, le guide, et le script d'appel pour signer tes premiers clients : tout est inclus.",
+      "highlight": [
+        "script",
+        "inclus."
+      ]
+    },
+    {
+      "type": "secteurs",
+      "say": "Avec, tu crées des logiciels 3D pour une carrosserie, un restaurant ou une agence immo.",
+      "sub": "Avec, tu crées des logiciels 3D pour une carrosserie, un restaurant ou une agence immo.",
+      "highlight": [
+        "3D"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Et chaque logiciel peut se vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Et chaque logiciel peut se vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

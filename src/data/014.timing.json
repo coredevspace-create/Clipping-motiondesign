@@ -1,0 +1,399 @@
+{
+  "id": "014",
+  "voice": "Puck",
+  "alertes": [],
+  "scenes": [
+    {
+      "type": "focus",
+      "file": "audio/014/01.wav",
+      "duration": 3.754,
+      "words": [
+        {
+          "text": "Imagine :",
+          "start": 0,
+          "end": 0.874
+        },
+        {
+          "text": "ton",
+          "start": 0.874,
+          "end": 1.033
+        },
+        {
+          "text": "premier",
+          "start": 1.033,
+          "end": 1.455
+        },
+        {
+          "text": "client",
+          "start": 1.455,
+          "end": 1.666
+        },
+        {
+          "text": "découvre",
+          "start": 1.666,
+          "end": 2.193
+        },
+        {
+          "text": "son",
+          "start": 2.193,
+          "end": 2.404
+        },
+        {
+          "text": "restaurant",
+          "start": 2.404,
+          "end": 3.037
+        },
+        {
+          "text": "en",
+          "start": 3.037,
+          "end": 3.248
+        },
+        {
+          "text": "3D.",
+          "start": 3.248,
+          "end": 3.447
+        }
+      ]
+    },
+    {
+      "type": "visite",
+      "file": "audio/014/02.wav",
+      "duration": 4.426,
+      "words": [
+        {
+          "text": "Toutes",
+          "start": 0,
+          "end": 0.306
+        },
+        {
+          "text": "ses",
+          "start": 0.306,
+          "end": 0.51
+        },
+        {
+          "text": "tables,",
+          "start": 0.51,
+          "end": 0.897
+        },
+        {
+          "text": "ses",
+          "start": 0.897,
+          "end": 1.101
+        },
+        {
+          "text": "réservations",
+          "start": 1.101,
+          "end": 1.917
+        },
+        {
+          "text": "et",
+          "start": 1.917,
+          "end": 2.121
+        },
+        {
+          "text": "l'activité",
+          "start": 2.121,
+          "end": 2.937
+        },
+        {
+          "text": "de",
+          "start": 2.937,
+          "end": 3.141
+        },
+        {
+          "text": "la",
+          "start": 3.141,
+          "end": 3.345
+        },
+        {
+          "text": "salle",
+          "start": 3.345,
+          "end": 3.651
+        },
+        {
+          "text": "en",
+          "start": 3.651,
+          "end": 3.855
+        },
+        {
+          "text": "direct.",
+          "start": 3.855,
+          "end": 4.426
+        }
+      ]
+    },
+    {
+      "type": "outils",
+      "file": "audio/014/03.wav",
+      "duration": 4.097,
+      "words": [
+        {
+          "text": "Le",
+          "start": 0,
+          "end": 0.213
+        },
+        {
+          "text": "tout",
+          "start": 0.213,
+          "end": 0.427
+        },
+        {
+          "text": "connecté",
+          "start": 0.427,
+          "end": 1.067
+        },
+        {
+          "text": "à",
+          "start": 1.067,
+          "end": 1.28
+        },
+        {
+          "text": "son",
+          "start": 1.28,
+          "end": 1.494
+        },
+        {
+          "text": "Outlook,",
+          "start": 1.494,
+          "end": 2.063
+        },
+        {
+          "text": "à",
+          "start": 2.063,
+          "end": 2.219
+        },
+        {
+          "text": "Teams",
+          "start": 2.219,
+          "end": 2.433
+        },
+        {
+          "text": "et",
+          "start": 2.433,
+          "end": 2.646
+        },
+        {
+          "text": "à",
+          "start": 2.646,
+          "end": 2.859
+        },
+        {
+          "text": "ses",
+          "start": 2.859,
+          "end": 3.073
+        },
+        {
+          "text": "fichiers",
+          "start": 3.073,
+          "end": 3.5
+        },
+        {
+          "text": "Excel.",
+          "start": 3.5,
+          "end": 4.097
+        }
+      ]
+    },
+    {
+      "type": "hook",
+      "file": "audio/014/04.wav",
+      "duration": 3.455,
+      "words": [
+        {
+          "text": "Ce",
+          "start": 0,
+          "end": 0.159
+        },
+        {
+          "text": "genre",
+          "start": 0.159,
+          "end": 0.398
+        },
+        {
+          "text": "de",
+          "start": 0.398,
+          "end": 0.557
+        },
+        {
+          "text": "logiciel",
+          "start": 0.557,
+          "end": 1.035
+        },
+        {
+          "text": "peut",
+          "start": 1.035,
+          "end": 1.194
+        },
+        {
+          "text": "se",
+          "start": 1.194,
+          "end": 1.353
+        },
+        {
+          "text": "vendre",
+          "start": 1.353,
+          "end": 1.592
+        },
+        {
+          "text": "jusqu'à",
+          "start": 1.592,
+          "end": 2.07
+        },
+        {
+          "text": "7 500 €.",
+          "start": 2.07,
+          "end": 3.455
+        }
+      ]
+    },
+    {
+      "type": "etapes",
+      "file": "audio/014/05.wav",
+      "duration": 5.393,
+      "words": [
+        {
+          "text": "Et",
+          "start": 0,
+          "end": 0.234
+        },
+        {
+          "text": "pour",
+          "start": 0.234,
+          "end": 0.469
+        },
+        {
+          "text": "le",
+          "start": 0.469,
+          "end": 0.703
+        },
+        {
+          "text": "créer :",
+          "start": 0.703,
+          "end": 1.121
+        },
+        {
+          "text": "tu",
+          "start": 1.121,
+          "end": 1.266
+        },
+        {
+          "text": "donnes",
+          "start": 1.266,
+          "end": 1.618
+        },
+        {
+          "text": "mon",
+          "start": 1.618,
+          "end": 1.852
+        },
+        {
+          "text": "prompt",
+          "start": 1.852,
+          "end": 2.087
+        },
+        {
+          "text": "à",
+          "start": 2.087,
+          "end": 2.321
+        },
+        {
+          "text": "Claude,",
+          "start": 2.321,
+          "end": 2.687
+        },
+        {
+          "text": "tu",
+          "start": 2.687,
+          "end": 3.001
+        },
+        {
+          "text": "réponds",
+          "start": 3.001,
+          "end": 3.47
+        },
+        {
+          "text": "à",
+          "start": 3.47,
+          "end": 3.705
+        },
+        {
+          "text": "ses",
+          "start": 3.705,
+          "end": 3.939
+        },
+        {
+          "text": "questions,",
+          "start": 3.939,
+          "end": 4.088
+        },
+        {
+          "text": "et",
+          "start": 4.088,
+          "end": 4.736
+        },
+        {
+          "text": "c'est",
+          "start": 4.736,
+          "end": 4.971
+        },
+        {
+          "text": "prêt.",
+          "start": 4.971,
+          "end": 5.393
+        }
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "file": "audio/014/06.wav",
+      "duration": 2.676,
+      "words": [
+        {
+          "text": "Commente «",
+          "start": 0,
+          "end": 0.523
+        },
+        {
+          "text": "CRM »,",
+          "start": 0.523,
+          "end": 0.732
+        },
+        {
+          "text": "et",
+          "start": 0.732,
+          "end": 0.941
+        },
+        {
+          "text": "je",
+          "start": 0.941,
+          "end": 1.15
+        },
+        {
+          "text": "t'envoie",
+          "start": 1.15,
+          "end": 1.464
+        },
+        {
+          "text": "le",
+          "start": 1.464,
+          "end": 1.673
+        },
+        {
+          "text": "lien",
+          "start": 1.673,
+          "end": 1.882
+        },
+        {
+          "text": "en",
+          "start": 1.882,
+          "end": 2.091
+        },
+        {
+          "text": "privé.",
+          "start": 2.091,
+          "end": 2.676
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "013",
+  "titre": "Avant, des mois de développement. Aujourd'hui : 1 prompt",
+  "voix": "Puck",
+  "direction": "# AUDIO PROFILE: Le narrateur\nA young French entrepreneur who makes viral TikTok videos about online business.\n\n### DIRECTOR'S NOTES\nStyle: energetic, confident and enthusiastic, like a viral short-form voiceover that hooks from the first second. Smile in the voice.\nPace: fast and punchy, with short dramatic pauses before the key numbers and between paragraphs.\nAccent: native French from France.\nOnly read the transcript below, nothing else.",
+  "description": "👉 Commente « CRM » et je t'envoie le lien pour créer ce logiciel en un seul prompt 🚀 #business #ia #claude #entrepreneur #logiciel3d",
+  "scenes": [
+    {
+      "type": "focus",
+      "say": "Ce logiciel, avant, c'était des mois de développement.",
+      "sub": "Ce logiciel, avant, c'était des mois de développement.",
+      "highlight": [
+        "mois"
+      ],
+      "focus": {
+        "kicker": "Avant",
+        "title": [
+          "Des mois",
+          "de développement"
+        ],
+        "image": "images/carrosserie.png",
+        "chips": []
+      }
+    },
+    {
+      "type": "avantApres",
+      "say": "Avant, il fallait des mois de travail et toute une équipe de développeurs. Aujourd'hui, il te faut juste un prompt et Claude.",
+      "sub": "Avant, il fallait des mois de travail et toute une équipe de développeurs. Aujourd'hui, il te faut juste un prompt et Claude.",
+      "highlight": [
+        "Aujourd'hui,",
+        "prompt",
+        "Claude."
+      ]
+    },
+    {
+      "type": "vingtMinutes",
+      "say": "Tu réponds à ses questions, et en vingt minutes, ton logiciel est prêt, sans une ligne de code.",
+      "sub": "Tu réponds à ses questions, et en 20 minutes, ton logiciel est prêt, sans une ligne de code.",
+      "highlight": [
+        "20 minutes,",
+        "prêt,"
+      ]
+    },
+    {
+      "type": "prixVente",
+      "say": "Ensuite, tu peux le vendre jusqu'à sept mille cinq cents euros.",
+      "sub": "Ensuite, tu peux le vendre jusqu'à 7 500 €.",
+      "highlight": [
+        "7 500 €."
+      ]
+    },
+    {
+      "type": "commenteCRM",
+      "say": "Commente CRM, et je t'envoie le lien en privé.",
+      "sub": "Commente « CRM », et je t'envoie le lien en privé.",
+      "highlight": [
+        "«",
+        "CRM",
+        "privé."
+      ]
+    }
+  ]
+}

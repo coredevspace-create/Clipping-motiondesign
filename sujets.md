@@ -17,13 +17,13 @@ Varier les structures d'un jour à l'autre : question, POV / « Imagine », list
 - [x] Pas besoin de savoir coder pour créer ça (2026-11-12, 010)
 - [x] 3 raisons de vendre des logiciels 3D plutôt que des sites web (2026-11-12, 011)
 - [x] Combien tu facturerais ça ? (révélation : jusqu'à 7 500 €) (2026-11-12, 012)
+- [x] Avant, ce logiciel coûtait des mois de développement. Aujourd'hui : 1 prompt (2026-11-13, 013)
+- [x] POV : ton premier client voit son restaurant en 3D (2026-11-13, 014)
+- [x] Les entreprises de ta ville utilisent encore ça (vieux logiciel) (2026-11-13, 015)
+- [x] Ce que je donnerais à quelqu'un qui veut se lancer avec l'IA (2026-11-13, 016)
+- [x] Un garage, un resto, une agence : ils ont tous le même problème (2026-11-13, 017)
 
 ## À faire
-- [ ] Avant, ce logiciel coûtait des mois de développement. Aujourd'hui : 1 prompt
-- [ ] POV : ton premier client voit son restaurant en 3D
-- [ ] Les entreprises de ta ville utilisent encore ça (vieux logiciel)
-- [ ] Ce que je donnerais à quelqu'un qui veut se lancer avec l'IA
-- [ ] Un garage, un resto, une agence : ils ont tous le même problème
 - [ ] Tu sais utiliser Claude ? Alors tu peux vendre ça
 - [ ] 20 minutes. C'est le temps pour créer ce logiciel
 - [ ] Le prompt que j'utilise pour créer des logiciels 3D
